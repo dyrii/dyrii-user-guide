@@ -49,10 +49,4 @@ Table of Contents:
 * :ref:`search`
 
 
-Introduction
-==================
-
-Navigating the App
-==================
-
 
