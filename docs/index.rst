@@ -4,7 +4,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Dyrii User Guide!
+Welcome to Dyrii User Manual!
 ==================================================
 
 Welcome to the official documentation of Godot Engine, the free and open source
