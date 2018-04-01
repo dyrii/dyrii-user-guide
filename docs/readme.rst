@@ -1,5 +1,5 @@
 
-Template
+Table of Contents
 ========
 
 $project will solve your problem of where to start with documentation,
