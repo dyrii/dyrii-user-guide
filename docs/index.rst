@@ -34,8 +34,8 @@ in the top left corner.
           us on the #godotengine-doc IRC channel on freenode!
 
 
-
-Table of Contents:
+Table of Contents
+--------
 
 .. toctree::
    :maxdepth: 2
