@@ -1,18 +1,12 @@
-
-
-Table of Contents
+========
+Introduction
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+To use this template, simply update it::
 
-Look how easy it is to use:
+	import read-the-docs-template
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+Usage
 --------
 
 - Be awesome
@@ -25,7 +19,7 @@ Install $project by running:
 
     install project
 
-Contribute
+Navigating the App
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
