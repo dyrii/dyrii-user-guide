@@ -1,13 +1,13 @@
 
 ========
-Usage
+Getting Started
 ========
 
 To use this template, simply update it::
 
 	import read-the-docs-template
 
-Features
+Usage
 --------
 
 - Be awesome
@@ -20,7 +20,7 @@ Install $project by running:
 
     install project
 
-Contribute
+Navigating the App
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
