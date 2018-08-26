@@ -33,7 +33,7 @@ html_sidebars = {
 }
 
 # Register the theme as an extension to generate a sitemap.xml
-extensions.append("guzzle_sphinx_theme")
+#extensions.append("guzzle_sphinx_theme")
 
 # Guzzle theme options (see theme.conf for more information)
 html_theme_options = {
