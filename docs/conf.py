@@ -11,11 +11,11 @@ extensions = []
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
-project = u'Guzzle'
-copyright = u'2015, Michael Dowling'
+project = u'Dyrii User Manual'
+copyright = u'2018, Dyrii LLC.'
 version = '6'
-html_title = "Guzzle Documentation"
-html_short_title = "Guzzle 6"
+html_title = "Dyrii Documentation"
+html_short_title = "Dyrii"
 
 exclude_patterns = ['_build']
 html_static_path = ['_static']
@@ -23,9 +23,9 @@ html_static_path = ['_static']
 ##### Guzzle sphinx theme
 
 #import guzzle_sphinx_theme
-html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = 'guzzle_sphinx_theme'
+#html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
+#html_theme_path = guzzle_sphinx_theme.html_theme_path()
+#html_theme = 'guzzle_sphinx_theme'
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
@@ -33,7 +33,7 @@ html_sidebars = {
 }
 
 # Register the theme as an extension to generate a sitemap.xml
-extensions.append("guzzle_sphinx_theme")
+#extensions.append("guzzle_sphinx_theme")
 
 # Guzzle theme options (see theme.conf for more information)
 html_theme_options = {
@@ -58,7 +58,7 @@ html_theme_options = {
 
     # Specify a base_url used to generate sitemap.xml links. If not
     # specified, then no sitemap will be built.
-    "base_url": "http://guzzlephp.org"
+    "base_url": "https://dyrii.com"
 
     # Allow the "Table of Contents" page to be defined separately from "master_doc"
     # tocpage = Contents
