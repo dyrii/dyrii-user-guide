@@ -1,10 +1,10 @@
 
 ========
-Key Features
+3. Key Features
 ========
 
 
-Timeline
+3.1 Timeline
 --------
 
 - Be awesome
