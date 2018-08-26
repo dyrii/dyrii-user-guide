@@ -7,32 +7,32 @@ To use this template, simply update it::
 
 	import read-the-docs-template
 
-Usage
+Timeline
 --------
 
 - Be awesome
 - Make things faster
 
-Installation
+Day View
 ------------
 
 Install $project by running:
 
     install project
 
-Navigating the App
+Perspective
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-Support
+Editor
 -------
 
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
 
-License
+Day Trails
 -------
 
 The project is licensed under the BSD license.
