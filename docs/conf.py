@@ -65,15 +65,17 @@ html_theme_options = {
 
     # Allow the project link to be overriden to a custom URL.
     # projectlink = http://myproject.url
-    
-    
    
+}
+
+
+
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Dyrii User Manual'
-epub_author = u'dyrii.com'
-epub_publisher = u'dyrii.com'
+epub_title = u'phpMyAdmin'
+epub_author = u'The phpMyAdmin devel team'
+epub_publisher = u'The phpMyAdmin devel team'
 epub_copyright = copyright
 
 # The language of the text. It defaults to the language option
@@ -109,4 +111,3 @@ epub_copyright = copyright
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
-}
