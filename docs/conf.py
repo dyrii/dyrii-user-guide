@@ -73,9 +73,9 @@ html_theme_options = {
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'phpMyAdmin'
-epub_author = u'The phpMyAdmin devel team'
-epub_publisher = u'The phpMyAdmin devel team'
+epub_title = u'Dyrii User Manual'
+epub_author = u'dyrii.com'
+epub_publisher = u'Dyrii LLC'
 epub_copyright = copyright
 
 # The language of the text. It defaults to the language option
@@ -111,3 +111,35 @@ epub_copyright = copyright
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+# -- Options for Texinfo output -------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+  ('index', 'Dyrii User Manual', u'Dyrii Documentation',
+   u'dyrii.com', 'Dyrii LLC', 'One line description of project.',
+   'Miscellaneous'),
+]
+
+# Documents to append as an appendix to all manuals.
+#texinfo_appendices = []
+
+# If false, no module index is generated.
+#texinfo_domain_indices = True
+
+# How to display URL addresses: 'footnote', 'no', or 'inline'.
+#texinfo_show_urls = 'footnote'
+
+# -- Options for manual page output ---------------------------------------
+
+# One entry per manual page. List of tuples
+# (source start file, name, description, authors, manual section).
+man_pages = [
+    ('index', 'Dyrii User Manual', u'Dyrii Documentation',
+     [u'dyrii.com'], 1)
+]
+
+# If true, show URL addresses after external links.
+#man_show_urls = False
