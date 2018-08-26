@@ -1,6 +1,6 @@
 
 ========
-Getting Started
+Getting Around in the App
 ========
 
 To use this template, simply update it::
