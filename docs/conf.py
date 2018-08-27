@@ -118,7 +118,7 @@ epub_copyright = copyright
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Dyrii User Manual', u'Dyrii Documentation',
+  ('index', 'Dyrii User Manual', u'Dyrii User Manual',
    u'dyrii.com', 'Dyrii LLC', 'One line description of project.',
    'Miscellaneous'),
 ]
