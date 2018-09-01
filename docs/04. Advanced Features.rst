@@ -60,7 +60,9 @@ Google Places URL of the Place
 The above information is also indexed and shown on the Perspective section. Right now the perspective section shows very limited information about these checkins but we plan to expand this in the future to also display checkin statistics.
 
 
-Trails2
+Mood
 -------
+Dyrii allows you to record your mood history against an entry. This function resides in the editor and can be invoked by clicking on the "Add Mood" link. 
 
-The project is licensed under the BSD license.
+The popup list all available mood option. Currently, you will not be able to add custom entries to this list but you can email us if you would like us to add a new entry that wemight have missed.
+
