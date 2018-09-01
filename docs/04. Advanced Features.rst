@@ -18,17 +18,17 @@ Day trails allow you to track all the places you visit in a day on a day by day 
 
    This is the caption of the figure (a simple paragraph).
 
-Day View2
+Life Milestones
 ------------
-
-Install $project by running:
-
-    install project
 
 .. image:: _images/day_trails.jpg
    :width: 200px
    :alt: alternate text
    :align: right
+
+Install $project by running:
+    install project
+
 
 Perspective2
 ----------
