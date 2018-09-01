@@ -7,32 +7,40 @@ To use this template, simply update it::
 
 	import read-the-docs-template
 
-Usage
+Search Keywords
 --------
 
-- Be awesome
-- Make things faster
+Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
 
-Installation
-------------
+iOS
 
-Install $project by running:
 
-    install project
 
-Navigating the App
-----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+You can enter either plain text on the search box or special search keywords such as name of country, city, year, month, type, etc. to find the specific type of entry. These keywords should be prefixed by '@' symbol. For example @photo will find all photos from your journal, @2017 will find all posts from the year 2017, @january will find all posts from January.
 
-Support
--------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
 
-License
--------
+Search Keyword Patterns
+Here are some of the search keyword patterns:
 
-The project is licensed under the BSD license.
+- @pin
+- @image
+- @photo
+- @health
+- @place
+- @doodle
+- @audio
+- @video
+- @January, @Jan, @Feb, etc.
+- @[City Name]
+- @[Country Code]
+- @[State Code]
+- @am
+- @pm
+
+Mac
+On the mac, the search is located on the top of the sidebar. You can use all the above keyword patterns here as well.
+
+
+
