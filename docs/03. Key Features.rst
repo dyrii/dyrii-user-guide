@@ -3,8 +3,9 @@
 Key Features
 ========
 
+.. glossary::
 
-:term: Timeline
+Timeline
 --------
 
 - Be awesome
