@@ -4,7 +4,7 @@ Key Features
 ========
 
 
-Timeline
+:term: Timeline
 --------
 
 - Be awesome
