@@ -87,8 +87,7 @@ This is a subsection making numbered points
 | the source file.
 
 
-.. highlights::
-Linu is my name
+.. highlights:: is my name
 
 ::
 
