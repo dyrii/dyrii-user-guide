@@ -3,7 +3,10 @@
 Tips & Tricks
 ========
 
-Search Keywords
+Keywords Shortcuts
+--------
+
+Search Tokens
 --------
 
 Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
@@ -46,6 +49,16 @@ Dyrii is equipped with a powerful search capability. The search function scans 
 
 iOS
 
+
+App URL Schemes
+--------
+Dyrii supports following URL Schemes for interfacing with externals apps. 
+
+Open Dyrii with New Post Window: dyrIi://pos
+Pin Location in Dyrii: dyrIi://pin
+ 
+
+While, this functionality is limited right now, we plan to enhance this in a future release. If you have questions or feature request around this functionality, please leave comments.
 
 Enabling Day Trails
 --------
