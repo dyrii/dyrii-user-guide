@@ -14,7 +14,7 @@ master_doc = 'index'
 project = u'Dyrii User Manual'
 copyright = u'2018, Dyrii LLC.'
 version = '6'
-html_title = "Dyrii Documentation"
+html_title = "Dyrii User Manual"
 html_short_title = "Dyrii"
 
 exclude_patterns = ['_build']
