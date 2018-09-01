@@ -30,17 +30,35 @@ Install $project by running:
     install project
 
 
-Perspective2
+Health Events
 ----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+To add health event, navigate to the Editor and click on the "Add Symptoms" link on the toolbar.
 
-Editor2
+
+Place Checkins
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+Place checkin is a feature that allows you to bookmark a specific location in an entry. It works very similar to how Facebook Check in works. To access this feature, select the "Checkin" option from the new post screen.
+
+
+
+The Checkin page will automatically show you the list of places that are near your current location. If the list of places does not load automatically, then click on the location triangle button on the top to reload the list. 
+
+You can also search for a specific location using the search bar on the top.
+
+
+
+Checkin information is stored against the post entry. We store the following information for checkins.
+
+Name of the Place
+Place Category (for example, restaurant, coffee shop, etc.) 
+Address of the Place
+Coordinates of the Place
+Google Places URL of the Place
+The above information is also indexed and shown on the Perspective section. Right now the perspective section shows very limited information about these checkins but we plan to expand this in the future to also display checkin statistics.
+
 
 Trails2
 -------
