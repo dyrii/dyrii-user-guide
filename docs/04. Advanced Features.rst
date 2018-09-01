@@ -18,6 +18,11 @@ Day trails allow you to track all the places you visit in a day on a day by day 
 
    This is the caption of the figure (a simple paragraph).
 
+Writing Templates
+------------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+
 Life Milestones
 ------------
 
