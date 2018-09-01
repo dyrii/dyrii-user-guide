@@ -5,6 +5,12 @@ Tips & Tricks
 
 Keywords Shortcuts
 --------
+Dyrii supports following URL Schemes for interfacing with externals apps.
+
+Open Dyrii with New Post Window: dyrIi://pos Pin Location in Dyrii: dyrIi://pin
+
+While, this functionality is limited right now, we plan to enhance this in a future release. If you have questions or feature request around this functionality, please leave comments.
+
 
 Search Tokens
 --------
