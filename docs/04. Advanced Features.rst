@@ -12,7 +12,7 @@ Day Trails
 
 Day trails allow you to track all the places you visit in a day on a day by day map view. This feature is disabled by default but can be enabled from Settings/Personalize.
 
-.. figure:: day_trails.jpg
+.. figure:: _images/day_trails.jpg
    :scale: 50 %
    :alt: map to buried treasure
 
