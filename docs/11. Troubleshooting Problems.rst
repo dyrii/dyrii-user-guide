@@ -3,16 +3,38 @@
 Troubleshooting Problems
 ========
 
-To use this template, simply update it::
-
-	import read-the-docs-template
 
 Sync not working
 --------
 
-- Be awesome
-- Make things faster
+There are multiple reasons why sync may not be working. As as first step toward troubleshooting, we recommend that you go through our user guide article on Sync (see link below). 
 
+Syncing
+
+Next, make sure all your devices are connected to the same Apple ID under Account Settings and they are connected to the internet. Please note that we use Apple's iCloud (Cloudkit) platform for Sync and it requires all devices to be connected with the same Apple ID. 
+
+If the above two steps fail to yield results, then check if iCloud is enabled on your Mac. This setting is located under macOS System Preference panel. See below few screenshots for reference. 
+
+.. figure:: _images/day_trails.jpg
+   :width: 100 %
+   :alt: map to buried treasure
+
+   This is the caption of the figure (a simple paragraph).
+   
+.. figure:: _images/day_trails.jpg
+   :width: 100 %
+   :alt: map to buried treasure
+
+   This is the caption of the figure (a simple paragraph).
+
+
+.. figure:: _images/day_trails.jpg
+   :width: 100 %
+   :alt: map to buried treasure
+
+   This is the caption of the figure (a simple paragraph).
+
+If the issue still persists, then please create a support ticket or contact us at support@dyrii.com.
 
 
 Online Articles
