@@ -5,6 +5,8 @@ Key Features
 
 
 .. index:: Timeline
+
+Timeline
 --------
 
 - Be awesome
