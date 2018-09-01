@@ -12,7 +12,7 @@ Day Trails
 
 Day trails allow you to track all the places you visit in a day on a day by day map view. This feature is disabled by default but can be enabled from Settings/Personalize.
 
-.. figure:: https://dyrii-support.zendesk.com/hc/article_attachments/360002592874/Screen_Shot_2018-03-22_at_8.16.37_AM.jpg
+.. figure:: day_trails.jpg
    :scale: 50 %
    :alt: map to buried treasure
 
