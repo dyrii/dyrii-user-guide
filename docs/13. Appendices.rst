@@ -86,6 +86,10 @@ This is a subsection making numbered points
 | broken exactly like in
 | the source file.
 
+
+.. highlights::
+Linu is my name
+
 ::
 
    **No** interpretation of
