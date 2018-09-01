@@ -11,6 +11,7 @@ Timeline
 - Be awesome
 - Make things faster
 
+.. index:: Day View
 Day View
 ------------
 
@@ -18,18 +19,21 @@ Install $project by running:
 
     install project
 
+.. index:: Perspective
 Perspective
 ----------
 
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
+.. index:: Editor
 Editor
 -------
 
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
 
+.. index:: Day Trails
 Day Trails
 -------
 
