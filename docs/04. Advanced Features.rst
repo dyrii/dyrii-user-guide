@@ -66,3 +66,19 @@ Dyrii allows you to record your mood history against an entry. This function res
 
 The popup list all available mood option. Currently, you will not be able to add custom entries to this list but you can email us if you would like us to add a new entry that wemight have missed.
 
+Passcode
+-------
+The passcode protection when activated locks your journals to protect your privacy. While setting the passcode, please keep it in a safe place so that you can access it in case you forget it. Please note that we will be unable to reset the passcode for you. 
+
+Note: The passcode protection is local to the device and the passcode does not sync across devices. 
+
+iOS
+
+To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. 
+
+Mac
+
+On the mac, to enable this function, click on the lock button on the toolbar and pick a passcode. 
+
+
+
