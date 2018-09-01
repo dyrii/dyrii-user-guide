@@ -15,20 +15,20 @@ Next, make sure all your devices are connected to the same Apple ID under Accoun
 
 If the above two steps fail to yield results, then check if iCloud is enabled on your Mac. This setting is located under macOS System Preference panel. See below few screenshots for reference. 
 
-.. figure:: _images/day_trails.jpg
+.. figure:: _images/mac_icloud_settings.png
    :width: 100 %
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
    
-.. figure:: _images/day_trails.jpg
+.. figure:: _images/mac_icloud_options.png
    :width: 100 %
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
 
 
-.. figure:: _images/day_trails.jpg
+.. figure:: _images/mac_icloud_dyrii_settings.png
    :width: 100 %
    :alt: map to buried treasure
 
