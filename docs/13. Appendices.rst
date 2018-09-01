@@ -96,6 +96,12 @@ And Still More       42
    interpreted as body elements.
    
 
+Some text that requires a footnote [#f1]_ .
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+
 Making links
 ============
 
