@@ -25,6 +25,13 @@ Install $project by running:
 
     install project
 
+.. image:: _images/day_trails.jpg
+   :width: 200px
+   :height: 100px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+
 Perspective2
 ----------
 
