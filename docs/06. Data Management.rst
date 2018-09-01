@@ -3,37 +3,45 @@
 Data Management
 ========
 
-To use this template, simply update it::
-
-	import read-the-docs-template
-
-.. index:: Importing
-Importing
+.. index:: Sync
+Sync
 --------
 
 - Be awesome
 - Make things faster
 
-Installation
+.. index:: Backup
+Backup
+--------
+
+- Be awesome
+- Make things faster
+
+.. index:: Restore
+Restore
+--------
+
+- Be awesome
+- Make things faster
+
+
+.. index:: Import
+Import
+--------
+
+- Be awesome
+- Make things faster
+
+.. index:: Export
+Export
 ------------
 
-Install $project by running:
+- Be awesome
+- Make things faster
 
-    install project
+.. index:: Reset
+Reset
+------------
 
-Navigating the App
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+- Be awesome
+- Make things faster
