@@ -3,36 +3,81 @@
 Getting Around in the App
 ========
 
-To use this template, simply update it::
 
-	import read-the-docs-template
 
-Usage
+.. index:: Timeline
+Timeline
 --------
 
-- Be awesome
-- Make things faster
+This section of the app provides a rolling timeline of all your entries by creation timestamp. Entries are grouped by day under a date header.
 
-Installation
+iOS
+
+Mac
+On the Mac, the timeline view is integrated with the year and month perspective view for ease of use on a bigger screen.
+
+
+.. index:: Day View
+Day View
 ------------
+While some users may like a rolling timeline view, some may prefer a more traditional day by day view format. The Today view addresses this need. The users are also allowed to set this view as their default view from under Menu.
 
-Install $project by running:
+iOS
+While the default view is loaded for the current week, users can swipe left or right to scroll through their weeks. The view on the top has a top-down swipe gesture to expand the number of visible days to display a full month.
 
-    install project
+The today view also displays all the places you have visited during the given day. Feature is turned off by default due to privacy reasons but can be turned on from Settings/Personalize/Track Place Visited.
 
-Navigating the App
+Mac
+On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. 
+
+
+To deselect the day view, simply click on the X button on the top of the view. 
+
+.. index:: Perspective
+Perspective
 ----------
+Perspective is a premium section that provides various lens for viewing your data. For example, a view into your entires by year, by month, by city, country. etc.
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+iOS
+To access this section, navigate to Menu/Perspective. New users are allowed 25 free previews to this section to give them a feel of this feature.
 
-Support
+
+Mac
+Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
+
+Similarly, the Atlas perspective that displays all your entries on a map is accessible by clicking on the Atlas menu item in the sidebar.
+
+The Health perspective provides a view into your health and mood entries group by month and year. There an option to even print this as a PDF report so that you can takeit with you to the doctor.
+
+
+.. index:: Search
+Search
 -------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+iOS
+On iOS, the toolbar appears right below the keyboard.
 
-License
+Mac
+On Mac, the toolbar appears at the bottom of the screen.
+
+
+.. index:: Flashback
+Flashback
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+iOS
+On iOS, the toolbar appears right below the keyboard.
+
+Mac
+On Mac, the toolbar appears at the bottom of the screen.
+
+
+
+.. index:: Settings
+Settings
 -------
 
 The project is licensed under the BSD license.
+
