@@ -86,6 +86,12 @@ This is a subsection making numbered points
 | broken exactly like in
 | the source file.
 
+::
+
+   **No** interpretation of
+   |special| characters.
+   
+
 .. _making-a-table:
 
 Making a table
