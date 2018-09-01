@@ -61,6 +61,16 @@ This is a subsection making bullet points
 * point C
 
 
+created by ... surrounding paragraph.
+
+   Neither from itself nor from another,
+   Nor from both,
+   Nor without a cause,
+   Does anything whatever, anywhere arise.
+
+   --Nagarjuna - *Mulamadhyamakakarika*
+
+
 Enumerated points
 ------------------
 
