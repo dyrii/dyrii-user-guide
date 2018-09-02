@@ -47,6 +47,10 @@ Here are some of the search keyword patterns:
 Mac
 On the mac, the search is located on the top of the sidebar. You can use all the above keyword patterns here as well.
 
+Bulk Editing
+--------
+Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
+
 
 Data Statistics
 --------
