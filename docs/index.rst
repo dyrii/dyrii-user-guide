@@ -4,6 +4,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+.. image:: _images/Dyrii_logo_theme_color.png
+   :width: 200px
+   :alt: alternate text
+   :align: left
+
 Welcome!
 ==================================================
 
