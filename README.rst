@@ -2,36 +2,9 @@
 Introduction
 ========
 
-To use this template, simply update it::
+Dyrii was born out of the struggle between two contrasting ideas: a) allowing users to bring their own storage vs b) taking over the ownership of providing and managing the storage for the user.
 
-	import read-the-docs-template
+Being an avid journal user ourselves, we needed the assurance that we own and control our journals and not anybody else. So, option b wasn't really an option. And that's how Dyrii was born!
 
-Usage
---------
+Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. 
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Navigating the App
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
