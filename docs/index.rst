@@ -6,7 +6,7 @@
 
 
 .. image:: _images/Dyrii_logo_theme_color.png
-   :width: 200px
+   :width: 100px
    :alt: alternate text
    :align: left
 
