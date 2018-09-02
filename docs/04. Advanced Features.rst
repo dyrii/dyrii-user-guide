@@ -86,7 +86,14 @@ Mac
 On the mac, to enable this function, click on the lock button on the toolbar and pick a passcode. 
 
 
-Bulk Editing
+Importing from Photos App
+-------
+To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. 
+-------
+Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
+
+
+Backdating Entries
 -------
 Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
 
