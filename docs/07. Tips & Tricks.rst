@@ -83,5 +83,11 @@ Prints & PDFs
 
 Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
 
-iOS
+Importing from Voice Memo App
+--------
+Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
+
+Importing from Notes App
+--------
+Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
 
