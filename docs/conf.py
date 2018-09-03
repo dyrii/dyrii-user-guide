@@ -31,7 +31,6 @@ html_static_path = ['_static']
 html_sidebars = {
     '**': ['logo-text.html', 'globaltoc.html', 'searchbox.html']
 }
-html_additional_pages = {'index': 'index.html'}
 
 # Register the theme as an extension to generate a sitemap.xml
 #extensions.append("guzzle_sphinx_theme")
@@ -148,7 +147,6 @@ man_pages = [
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
-#    'releasename':"v1.0"
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
 
@@ -156,6 +154,7 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
+#'preamble': '',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -163,14 +162,12 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'dyrii.tex', u'Dyrii User Manual',
-   u'Published by dyrii.com', 'manual'),
+   u'Dyrii.com', 'manual'),
 ]
-
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
-#latex_logo = '_images/Dyrii_logo_theme_color.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
