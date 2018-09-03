@@ -10,3 +10,45 @@ Being an avid journal user ourselves, we needed the assurance that we own and co
 
 Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. 
 
+
+
+Download & Install
+___________
+Dyrii App is currently avaialble only on Apple platforms for iOS and macOS. The product is currently available only in the App Store. To download the app, use the below links (or scan the below QR codes).
+
+
+Navigating the App
+___________
+The app is organized into following sections.
+
+Timeline
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Today
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Perspectives
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Other Views
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+New Post
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Post View
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Flashback
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Settings
+^^^^^^^^^
+This is the default view when the app is loaded.
