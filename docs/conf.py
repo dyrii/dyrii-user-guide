@@ -148,7 +148,7 @@ man_pages = [
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
-    'releasename':"v1.0"
+#    'releasename':"v1.0"
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
 
@@ -170,7 +170,7 @@ latex_documents = [
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
-latex_logo = '_images/Dyrii_logo_theme_color.png'
+#latex_logo = '_images/Dyrii_logo_theme_color.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
