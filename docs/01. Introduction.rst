@@ -4,9 +4,9 @@ Introduction
 
 What is Dyrii?
 ___________
-Dyrii was born out of the struggle between two contrasting ideas: a) allowing users to bring their own storage vs b) taking over the ownership of providing and managing the storage for the user.
+Dyrii is a privacy focused journaling app for iOS and macOS. While there are tons of other journaling apps out there, Dyrii is unusual due to its focus on privacy and passive journaling. It is a great tool for life loggers, travelers, quantified self-enthusiasts, and practically anyone looking to record key moments of their life. With Dyrii, you can take rich text entries containing inline photos, audio, video, location geo-tags, health/mood tags, and weather information. You can even capture handwritten entries using Apple Pencil on iPad.
 
-Being an avid journal user ourselves, we needed the assurance that we own and control our journals and not anybody else. So, option b wasn't really an option. And that's how Dyrii was born!
+Dyrii was born out of the struggle between two contrasting ideas: a) allowing users to bring their own storage vs b) taking over the ownership of providing and managing the storage for the user. Being an avid journal user ourselves, we needed the assurance that we own and control our journals and not anybody else. So, option b wasn't really an option. And that's how Dyrii was born!
 
 Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. 
 
@@ -41,7 +41,12 @@ Dyrii App is currently avaialble only on Apple platforms for iOS and macOS. The 
 
 Navigating the App
 ___________
-The app is organized into following sections.
+The iOS app is organized into following sections that can accessed from the Menu section of the app.
+
+Timeline:  
+Today (Day Cards):
+Perspective:
+Settings:
 
 Timeline
 ^^^^^^^^^
