@@ -5,11 +5,6 @@
    contain the root `toctree` directive.
 
 
-.. image:: _images/Dyrii_logo_theme_color.png
-   :width: 75px
-   :alt: alternate text
-   :align: left
-
 Table of Contents
 ==================================================
 
