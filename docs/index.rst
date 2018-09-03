@@ -24,5 +24,14 @@ Welcome to Dyrii User Manual! We created this guide to help users of our app lea
 
 * :ref:`genindex`
 
+Table of Contents:
 
+ .. toctree::
+    :maxdepth: 2
+    :glob:
+    :numbered:
+
+    *
+
+ * :ref:`genindex`
 
