@@ -23,10 +23,10 @@ macOS: https://itunes.apple.com/us/app/dyrii-private-journal-with-audio-video-he
 |pic1|  |pic2|
 
 .. |pic1| image:: _images/ios_appstore_link.png
-   :width: 150px
+   :width: 40%
 
 .. |pic2| image:: _images/macos_appstore_link.png
-   :width: 150px
+   :width: 40%
 
 
 
