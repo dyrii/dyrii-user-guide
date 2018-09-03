@@ -29,6 +29,7 @@ You can enter either plain text on the search box or special search keywords suc
 Search Keyword Patterns
 Here are some of the search keyword patterns:
 
+.. code:: python
 - @pin
 - @image
 - @photo
