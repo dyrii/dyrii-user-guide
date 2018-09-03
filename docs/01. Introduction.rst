@@ -16,27 +16,18 @@ Download & Install
 ___________
 Dyrii App is currently avaialble only on Apple platforms for iOS and macOS. The product is currently available only in the App Store. To download the app, use the below links (or scan the below QR codes).
 
+iOS: https://itunes.apple.com/app/id943305750?mt=8
+macOS: https://itunes.apple.com/us/app/dyrii-private-journal-with-audio-video-health/id946591444?mt=12
+
 .. class:: center
 |pic1|  |pic2|
 
 .. |pic1| image:: _images/ios_appstore_link.png
-   :width: 45%
+   :width: 150px
 
 .. |pic2| image:: _images/macos_appstore_link.png
-   :width: 45%
-   
-iOS: https://itunes.apple.com/app/id943305750?mt=8 /n \n
-macOS: https://itunes.apple.com/us/app/dyrii-private-journal-with-audio-video-health/id946591444?mt=12
-
-.. image:: _images/ios_appstore_link.png
    :width: 150px
-   :alt: iOS AppStore Link
-   :align: center
 
-.. image:: _images/macos_appstore_link.png
-   :width: 150px
-   :alt: macOS AppStore Link
-   :align: center
 
 
 Navigating the App
