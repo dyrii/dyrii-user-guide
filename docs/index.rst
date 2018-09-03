@@ -20,6 +20,8 @@ Welcome to Dyrii User Manual! We created this guide to help users of our app lea
    :maxdepth: 2
    :glob:
    :numbered:
+   *
+
 * :ref:`genindex`
 
 
