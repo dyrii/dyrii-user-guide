@@ -7,7 +7,7 @@ Key Features
 .. index:: Timeline
 Timeline
 --------
-
+Timeline Cell and Grouping, iCloud icons 
 This section of the app provides a rolling timeline of all your entries by creation timestamp. Entries are grouped by day under a date header.
 
 iOS
@@ -60,6 +60,30 @@ On iOS, the toolbar appears right below the keyboard.
 Mac
 On Mac, the toolbar appears at the bottom of the screen.
 
+Attaching Photos
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Attaching Video
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Attaching Audio
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Checking In
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Attaching Weather Info
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Changing Metadata
+-------
+Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
 .. index:: Day Trails
 Day Trails
 -------
@@ -75,6 +99,14 @@ Writing Templates
 ------------
 Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
+Tagging
+------------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+
+Sketching 
+------------
+Sketching using Apple Pencil
 
 Life Milestones
 ------------
@@ -87,6 +119,30 @@ Life Milestones
 Install $project by running:
     install project
 
+Flashback
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+
+Today Extension
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+3D Shortcuts 
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+Editing Photos & Filters
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+Editing Sketches
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+Writing Statistics 
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
 Health Events
 ----------
@@ -159,4 +215,12 @@ Note: Bulk editing options are currently not available on Mac.
 iOS
 
 
-The project is licensed under the BSD license.
+
+Local Mode
+-------
+This pirvacy focused allows users to store data on the device without uploading them to the cloud. 
+
+iCloud Mode
+-------
+how syncing works with progressive download
+
