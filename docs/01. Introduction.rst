@@ -50,7 +50,7 @@ Main Menu
 ^^^^^^^^^
 
 .. image:: _images/main_menu_ios.jpg
-   :width: 250px
+   :height: 300px
    :alt: alternate text
    :align: right
    
