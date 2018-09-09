@@ -54,7 +54,7 @@ Even though this is not the default view that is loaded when the app is launched
 .. image:: _images/main_menu_ios.jpg
    :width: 300px
    :alt: alternate text
-   :align: center
+   :align: left
 
 To get to this view, you can press the back arrow button < from the default view.
 
@@ -64,7 +64,7 @@ Timeline
 .. image:: _images/timeline_view_ios.jpeg
    :width: 300px
    :alt: alternate text
-   :align: right
+   :align: left
 
 The Timeline view is the default view that is loaded when the app is launched (we will tell you more in the Chapter 6 Personalize on how to change this default view from Settings). This view is grouped by day and provides a running list of all the posts in your journal.  If you have enabled iCloud, this view will fetch your posts from iCloud in a batch mode as you scroll down to the bottom of the list. 
 
