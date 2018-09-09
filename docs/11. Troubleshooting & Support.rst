@@ -64,9 +64,15 @@ For example: Dyrii_2017-07-05-234426_spasskyPro9.crash
 You can send this to bugs@dyrii.com.
 
 
-Online Articles
+Support Articles
 ----------
 
+- Issue Tracker: github.com/$project/$project/issues
+- Source Code: github.com/$project/$project
+
+
+Online Community
+----------
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
