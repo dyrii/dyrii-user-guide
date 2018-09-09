@@ -39,32 +39,22 @@ Dyrii App is currently avaialble only on Apple platforms for iOS and macOS. The 
 
 
 
-Navigating the App
+Getting Around in the App
 ___________
-The iOS app is organized into following sections that can accessed from the Menu section of the app.
 
-Timeline:  
-Today (Day Cards):
-Perspective:
-Settings:
+The navigation of the app is structured slightly differently in iOS and macOS due to the differences in their user interfaces. On the other hand, the user interfaces across iPhone and iPad resemble closely since they are part of the same app and ecosystem. In this section, we will start first by describing the iOS app and then branch into macOS as we drill down into each section. 
+
+At a high level, the app is structured into following key areas:
+
+Main Menu
+^^^^^^^^^
+Even though this is not the default view that is loaded when the app is launched, we call this the root view because all other features and views in the app are branched off from this area. For example, Timeline, Today, Perspectives can be navigated to from this view. The Settings option is also located on this view.  To get to this view, you can press the back arrow button < from the default view.
 
 Timeline
 ^^^^^^^^^
-This is the default view when the app is loaded.
+The Timeline view is the default view that is loaded when the app is launched (we will tell you more in the Chapter 6 Personalize on how to change this default view from Settings). This view is grouped by day and provides a running list of all the posts in your journal.  If you have enabled iCloud, this view will fetch your posts from iCloud in a batch mode as you scroll down to the bottom of the list. 
 
 Today
-^^^^^^^^^
-This is the default view when the app is loaded.
-
-Perspectives
-^^^^^^^^^
-This is the default view when the app is loaded.
-
-Other Views
-^^^^^^^^^
-This is the default view when the app is loaded.
-
-New Post
 ^^^^^^^^^
 This is the default view when the app is loaded.
 
@@ -72,9 +62,35 @@ Post View
 ^^^^^^^^^
 This is the default view when the app is loaded.
 
+Post Metadata View
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+New Post
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Perspectives
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Favorites 
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Atlas 
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+Tags 
+^^^^^^^^^
+This is the default view when the app is loaded.
+
+
 Flashback
 ^^^^^^^^^
 This is the default view when the app is loaded.
+
 
 Settings
 ^^^^^^^^^
