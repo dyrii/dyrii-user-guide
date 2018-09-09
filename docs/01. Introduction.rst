@@ -50,9 +50,8 @@ Main Menu
 ^^^^^^^^^
 
 .. image:: _images/main_menu_ios.jpg
-   :height: 300px
+   :height: 400px
    :alt: alternate text
-   :align: right
    
 Even though this is not the default view that is loaded when the app is launched, we call this the root view because all other features and views in the app are branched off from this area. For example, Timeline, Today, Perspectives can be navigated to from this view. The Settings option is also located on this view.  
 
