@@ -10,7 +10,9 @@ Table of Contents
 
 Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn more about the app. This guide is organized into several chapters wherein details on how the app behaves on iOS and macOS are provided. The Table of Contents that is provided below (and also on the left menu sidebar on the html website) illustrates a summary of all the topics we have covered. 
 
-This guide is also downloadable as a `yahoo <http://yahoo.com>`_ `PDF<http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>` or `EPUB<https://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>` file.<a href="http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/">PDF</a> or <a href="https://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/">EPUB</a> file. 
+This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <https://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_file. 
+
+`PDF<http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>` or `EPUB<https://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>` file.<a href="http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/">PDF</a> or <a href="https://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/">EPUB</a> file. 
 
  .. toctree::
     :maxdepth: 2
