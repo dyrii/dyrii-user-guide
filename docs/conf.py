@@ -246,7 +246,7 @@ latex_elements = {
             \vspace*{40mm} %%% * is used to give space from top
             \begin{figure}[!h]
             \centering
-            \includegraphics[scale=1.0]{pdf_logo.jpg}
+            \includegraphics[scale=0.75]{pdf_logo.jpg}
             \end{figure}
             
             \vspace{0mm}
