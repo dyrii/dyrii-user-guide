@@ -6,13 +6,6 @@
 }
 
 .wy-side-nav-search input[type="text"] {
-    border-color: gray;
+    border-color: silver !important;;
 }
 
-div[class^="highlight"] a {
-    background-color: #E6E6E6;
-}
-
-div[class^="highlight"] a:hover {
-    background-color: #ABECFC;
-}
