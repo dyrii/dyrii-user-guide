@@ -31,7 +31,11 @@ The Timeline view is the default view that is loaded when the app is launched (w
 
 Today
 ^^^^^^^^^
-This alternative view to Timeline and is also called as the Day view. This view provides a list of posts from a given day with a 7 day header providing a way to swipe through the days. 
+This is also called as the Day view and provides an alternative to the default Timeline view. This view provides a list of posts from a given day with a 7 day header providing a way to swipe through the days. The trails of places you visit are also displayed on this view in a map above the post listings (Note: This is turned off by default and needs to be turned on from Settings).
+
+.. image:: _images/iphone_today_week.jpg
+   :width: 300px
+   :alt: alternate text
 
 Post View
 ^^^^^^^^^
