@@ -246,17 +246,14 @@ latex_elements = {
             \vspace*{40mm} %%% * is used to give space from top
             \begin{figure}[!h]
             \centering
-            \includegraphics[scale=0.3]{pdf_logo.jpg}
+            \includegraphics[scale=1.0]{pdf_logo.jpg}
             \end{figure}
             
             \vspace{0mm}
             \textbf{\Huge {Dyrii User Manual}}
 
             \vspace{0mm}
-            \small \textbf{{Published by Dyrii LLC.}}
-
-            #\vspace*{0mm}
-            #\small  Last updated on June, 2018
+            \small Published by Dyrii LLC.
 
 
             %% \vfill adds at the bottom
