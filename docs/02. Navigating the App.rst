@@ -55,30 +55,54 @@ This view can be reached by clicking the i button from the post detail view. Thi
 
 New Post
 ^^^^^^^^^
+This view is used to create a new entry. To get here, click the circular + button that is located at the lower right part of the screen on Timeline or Today view. The toolbar located in this view provides a way to enter rich text entries. There are also options to edit the datetime and location of the entry.
+
+.. image:: _images/iphone_editor.jpeg
+   :width: 300px
+   :alt: alternate text
+
+
+Atlas 
+^^^^^^^^^
+This view is located in the Main Menu window and displays the entries in a map view.
+
+.. image:: _images/iphone_atlas.jpeg
+   :width: 300px
+   :alt: alternate text
+
+
+
+Tags 
+^^^^^^^^^
 This is the default view when the app is loaded.
+
+.. image:: _images/iphone_tags_management.jpeg
+   :width: 300px
+   :alt: alternate text
+
 
 Perspectives
 ^^^^^^^^^
 This is the default view when the app is loaded.
 
-Favorites 
-^^^^^^^^^
-This is the default view when the app is loaded.
+.. image:: _images/iphone_perspective.jpeg
+   :width: 300px
+   :alt: alternate text
 
-Atlas 
-^^^^^^^^^
-This is the default view when the app is loaded.
-
-Tags 
-^^^^^^^^^
-This is the default view when the app is loaded.
 
 
 Flashback
 ^^^^^^^^^
 This is the default view when the app is loaded.
 
+.. image:: _images/iphone_flashback.png
+   :width: 300px
+   :alt: alternate text
 
 Settings
 ^^^^^^^^^
 This is the default view when the app is loaded.
+
+.. image:: _images/iphone_settings.png
+   :width: 300px
+   :alt: alternate text
