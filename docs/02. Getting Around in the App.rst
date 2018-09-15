@@ -10,7 +10,7 @@ At a high level, the app is structured into following key areas:
 Main Menu
 ^^^^^^^^^
    
-This is the root view of the app from where you could get to all the other views. For example, Timeline, Today, Perspectives can be navigated to from this view. The Settings option is also located on this view.  
+This is the parent view of the app from where you could get to all the other child views. For example, child views such as Timeline, Today, Perspectives, Settings etc. can be navigated to from this view. 
 
 .. image:: _images/main_menu_ios.jpg
    :width: 300px
@@ -31,7 +31,7 @@ The Timeline view is the default view that is loaded when the app is launched (w
 
 Today
 ^^^^^^^^^
-This is the default view when the app is loaded.
+This alternative view to Timeline and is also called as the Day view. This view provides a list of posts from a given day with a 7 day header providing a way to swipe through the days. 
 
 Post View
 ^^^^^^^^^
