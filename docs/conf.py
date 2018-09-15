@@ -18,7 +18,7 @@ html_title = "Dyrii User Manual"
 html_short_title = "Dyrii"
 
 exclude_patterns = ['_build']
-html_static_path = ['_static']
+html_static_path = ['_images']
 
 ##### Guzzle sphinx theme
 
