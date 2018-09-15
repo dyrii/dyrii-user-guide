@@ -39,11 +39,19 @@ This is also called as the Day view and provides an alternative to the default T
 
 Post View
 ^^^^^^^^^
-This is the default view when the app is loaded.
+This view provides details of a given post. This view also provides visibility into tags and geolocation information that is used in the post. There are additional menu options here (... button) that can be used to tweak this view such as toggling large vs small image display, adding afterthoughts etc.
+
+.. image:: _images/iphone_post_view.jpeg
+   :width: 300px
+   :alt: alternate text
 
 Post Metadata View
 ^^^^^^^^^
-This is the default view when the app is loaded.
+This view can be reached by clicking the i button from the post detail view. This view provides visibility into the additional metadata attributes that are captured as part of the post. 
+
+.. image:: _images/iphone_post_metadata.jpeg
+   :width: 300px
+   :alt: alternate text
 
 New Post
 ^^^^^^^^^
