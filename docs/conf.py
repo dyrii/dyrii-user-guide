@@ -253,10 +253,10 @@ latex_elements = {
             \textbf{\Huge {Dyrii User Manual}}
 
             \vspace{0mm}
-            \Large \textbf{{Published by Dyrii LLC.}}
+            \small \textbf{{Published by Dyrii LLC.}}
 
-            \vspace*{0mm}
-            \small  Last updated on June, 2018
+            #\vspace*{0mm}
+            #\small  Last updated on June, 2018
 
 
             %% \vfill adds at the bottom
