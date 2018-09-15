@@ -1,6 +1,6 @@
 
 ========
-Getting Around in the App
+Navigating the App
 ========
 
 The navigation of the app is structured slightly differently in iOS and macOS due to the differences in their user interfaces. On the other hand, the user interfaces across iPhone and iPad resemble closely since they are part of the same app and ecosystem. In this section, we will start first by describing the iOS app and then branch into macOS as we drill down into each section. 
