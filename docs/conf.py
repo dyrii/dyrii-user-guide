@@ -249,7 +249,7 @@ latex_elements = {
             \vspace{0mm}
             \begin{figure}[!h]
                 \centering
-                \includegraphics[scale=0.3]{pdf_logo.jpg}
+                \includegraphics[scale=0.3]{_images/Dyrii_logo_theme_color.png}
             \end{figure}
 
             \vspace{0mm}
