@@ -246,7 +246,7 @@ latex_elements = {
             \vspace*{40mm} %%% * is used to give space from top
             \begin{figure}[!h]
             \centering
-            \includegraphics[scale=0.3]{Dyrii_logo_theme_color.png}
+            \includegraphics[scale=0.3]{pdf_logo.jpg}
             \end{figure}
             
             \vspace{0mm}
@@ -261,7 +261,7 @@ latex_elements = {
 
             %% \vfill adds at the bottom
             \vfill
-            \small \textit{More information available at }{\href{http://dyrii.com}{Dyrii.com}}
+            \small \textit{More information available at }{\href{http://support.dyrii.com}{support.dyrii.com}}
         \end{titlepage}
 
         \clearpage
@@ -299,7 +299,7 @@ latex_documents = [
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
-latex_logo = '_images/Dyrii_logo_theme_color.png'
+latex_logo = '_images/pdf_logo.jpg'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
