@@ -244,26 +244,26 @@ latex_elements = {
             \centering
 
             \vspace*{40mm} %%% * is used to give space from top
-            \textbf{\Huge {PythonDSP}}
+            \textbf{\Huge {Dyrii User Manual}}
 
             \vspace{0mm}
             \begin{figure}[!h]
                 \centering
-                \includegraphics[scale=0.3]{logo.jpg}
+                \includegraphics[scale=0.3]{pdf_logo.jpg}
             \end{figure}
 
             \vspace{0mm}
-            \Large \textbf{{Meher Krishna Patel}}
+            \Large \textbf{{Published by Dyrii LLC.}}
 
-            \small Created on : Octorber, 2017
+            \small Created on : March, 2018
 
             \vspace*{0mm}
-            \small  Last updated : \MonthYearFormat\today
+            \small  Last updated : June, 2018
 
 
             %% \vfill adds at the bottom
             \vfill
-            \small \textit{More documents are freely available at }{\href{http://pythondsp.readthedocs.io/en/latest/pythondsp/toc.html}{PythonDSP}}
+            \small \textit{More information available at }{\href{http://dyrii.com}{Dyrii.com}}
         \end{titlepage}
 
         \clearpage
