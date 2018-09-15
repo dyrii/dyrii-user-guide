@@ -244,21 +244,19 @@ latex_elements = {
             \centering
 
             \vspace*{40mm} %%% * is used to give space from top
-            \textbf{\Huge {Dyrii User Manual}}
-
-            \vspace{0mm}
             \begin{figure}[!h]
-                \centering
-                \includegraphics[scale=0.3]{Dyrii_logo_theme_color.png}
+            \centering
+            \includegraphics[scale=0.3]{Dyrii_logo_theme_color.png}
             \end{figure}
+            
+            \vspace{0mm}
+            \textbf{\Huge {Dyrii User Manual}}
 
             \vspace{0mm}
             \Large \textbf{{Published by Dyrii LLC.}}
 
-            \small Created on : March, 2018
-
             \vspace*{0mm}
-            \small  Last updated : June, 2018
+            \small  Last updated on June, 2018
 
 
             %% \vfill adds at the bottom
