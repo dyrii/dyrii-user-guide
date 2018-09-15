@@ -17,7 +17,7 @@ This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii
 
    Click on the '**v.latest**' on the bottom-left in the tutorial website, and select the format for offline reading, as shown in below figure, 
 
-   .. figure:: images/download_guide.png
+   .. figure:: _images/download_guide.png
    
       Download tutorials for offline reading 
 
