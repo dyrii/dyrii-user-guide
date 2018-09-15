@@ -5,6 +5,9 @@
     background-color: #db5a6b !important;
 }
 
+.wy-side-nav-search input[type="text"] {
+    border-color: gray;
+}
 
 div[class^="highlight"] a {
     background-color: #E6E6E6;
