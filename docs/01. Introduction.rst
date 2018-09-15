@@ -11,7 +11,7 @@ Dyrii was born out of the struggle between two contrasting ideas: a) allowing us
 Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. 
 
 
-Why iCloud?
+Using iCloud
 ___________
 Dyrii is sort unique in a way that we don’t run our own servers for data storage. All user is data is stored on user’s personal iCloud account on Apple Server. As an app developer this, shield us from having any access to customer data and  provide a privacy focused product. 
 
