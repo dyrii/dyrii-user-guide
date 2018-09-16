@@ -17,7 +17,7 @@ This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii
 
 
 
-.. rubric:: Acknowledgements
+.. rubric:: ======Acknowledgements======
 
 **Acknowledgements**
 
