@@ -18,7 +18,7 @@ copyright = u'2018, Dyrii LLC.'
 version = '6'
 html_title = "Dyrii User Manual"
 html_short_title = "Dyrii"
-
+html_logo = 'pdf_logo.jpg'
 exclude_patterns = ['_build']
 html_static_path = ['_images']
 
@@ -215,10 +215,10 @@ latex_elements = {
         %\fancyhead[LE]{\small \nouppercase{\leftmark}}
 
         %% for oneside: change footer at right side. If you want to use Left and right then use same as header defined above.
-        \fancyfoot[R]{\ifthenelse{\isodd{\value{page}}}{{\tiny Meher Krishna Patel} }{\href{http://pythondsp.readthedocs.io/en/latest/pythondsp/toc.html}{\tiny PythonDSP}}}
+        \fancyfoot[R]{\ifthenelse{\isodd{\value{page}}}{{\tiny Dyrii LLC} }{\href{http://dyrii.com}{\tiny dyrii.com}}}
 
         %%% Alternating Footer for two side
-        %\fancyfoot[RO, RE]{\scriptsize Meher Krishna Patel (mekrip@gmail.com)}
+        %\fancyfoot[RO, RE]{\scriptsize Dyrii LLC (support@dyrii.com)}
 
         %%% page number
         \fancyfoot[CO, CE]{\thepage}
