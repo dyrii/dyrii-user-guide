@@ -26,5 +26,5 @@ Visit here for topic :ref:`genindex`.
     :maxdepth: 2
     :glob:
     :numbered:
-
+*
 
