@@ -3,6 +3,7 @@
 Troubleshooting & Support
 ========
 
+If you run into any issues with the app, try the below solutions. 
 
 Sync not working
 --------
@@ -79,4 +80,4 @@ Online Community
 
 Contact us
 ----------
-If you are having issues, please let us know. We have a mailing list located at: project@google-groups.com
+If you require further assistance please visit support.dyrii and click on “Submit a Ticket” and a technical support person will reply back to you.
