@@ -12,15 +12,10 @@ Preface
 
 Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn more about the app. This guide is organized into several chapters wherein details on how the app behaves on iOS and macOS are provided. The Table of Contents that is provided below (and also on the left menu sidebar on the html website) illustrates a summary of all the topics we have covered. 
 
-.. note::
-This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <http://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_ file. For a list of all the topic index we covered, visit here: :ref:`genindex`.
+.. note:: This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <http://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_ file. For a list of all the topic index we covered, visit here: :ref:`genindex`.
 
 
 
-.. rubric:: 
-======
-Acknowledgements
-======
 
 **Acknowledgements**
 
@@ -29,6 +24,7 @@ Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn mo
 
  .. toctree:: 
     :maxdepth: 2
+    :glob
     :numbered:
     :caption: Table of Contents
     :name: mastertoc
