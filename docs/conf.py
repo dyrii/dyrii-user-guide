@@ -18,7 +18,7 @@ copyright = u'2018, Dyrii LLC.'
 version = '6'
 html_title = "Dyrii User Manual"
 html_short_title = "Dyrii"
-html_logo = 'pdf_logo.jpg'
+html_logo = 'white_logo.png'
 exclude_patterns = ['_build']
 html_static_path = ['_images']
 
