@@ -24,7 +24,7 @@ Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn mo
 
  .. toctree:: 
     :maxdepth: 2
-    :glob
+    :glob:
     :numbered:
     :caption: Table of Contents
     :name: mastertoc
