@@ -15,15 +15,16 @@ Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn mo
 This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <http://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_ file. 
 
 **Acknowledgements**
+
 Welcome to Dyrii User Manual! We created this guide to help Dyrii users learn more about the app. This guide is organized into several chapters wherein details on how the app behaves on iOS and macOS are provided. The Table of Contents that is provided below (and also on the left menu sidebar on the html website) illustrates a summary of all the topics we have covered. 
 
 Visit here for topic :ref:`genindex`.
 
 **Table of Contents**
+
  .. toctree::
     :maxdepth: 2
     :glob:
     :numbered:
 
-    *
 
