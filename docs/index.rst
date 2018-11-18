@@ -18,6 +18,9 @@ Hello and welcome to Dyrii User Manual! We created this guide to help new and ex
 Several people are involved in the creation and maintenance of this user guide. We are specially thankful to  `Eric Holscher <https://github.com/ericholscher>`_ and his `Read The Docs team <https://docs.readthedocs.io/en/latest/team.html>`_ for creating a remarkable documentation tool and most importantly open sourcing it. Without their help, we wouldn't have been able to create this user guide in this shape and form.
 
 
+.. image:: _images/promo.jpg
+   :alt: alternate text
+
 
  .. toctree:: 
     :maxdepth: 2
