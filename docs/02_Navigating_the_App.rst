@@ -10,12 +10,21 @@ At a high level, the app is structured into following key areas:
 
 Timeline
 ^^^^^^^^^
-Timeline is loaded as the default view when the app is launched. All your journal entries are loaded here grouped and sorted by creation date. We will tell you more in Chapter 6 Personalize on how to change this default view from Settings. Note: If you have enabled iCloud, this view will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. 
+Timeline is loaded as the default view when the app is launched. All your journal entries are loaded here grouped and sorted by creation date. We will tell you more in Chapter 6 Personalize on how to change this default view from Settings. 
+
 
 .. image:: _images/timeline_view_ios.jpeg
    :width: 300px
-   :alt: alternate text
+   :alt: iOS Timeline
+   
 
+
+Note: If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. On macOS, this behavior is slighly different where we download all the entries on the device instead of batching it like we do on iOS.
+
+
+.. image:: _images/timeline_view_macOS.jpeg
+   :width: 300px
+   :alt: iOS Timeline
 
 
 Main Menu
