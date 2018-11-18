@@ -32,7 +32,6 @@ Main Menu
 The Main Menu is located at the root of the app. To get here, click on back arrow button (<) from the Timeline (or Today) view. From this view you can get to all the other views in the app. For example, child views such as Timeline, Today, Perspectives, Settings etc. can be navigated to from this view. 
 
 .. image:: _images/main_menu_ios.jpg
-   :width: 300px
    :alt: alternate text
 
 
