@@ -67,17 +67,14 @@ On Mac, the toolbar appears at the bottom of the screen and is collapsed by defa
 
 
 .. image:: _images/Editor_macOS_Controls_Collapsed.png
-   :width: 300px
    :alt: alternate text
    
 
 .. image:: _images/Editor_macOS_Controls_Expanded.png
-   :width: 300px
    :alt: alternate text
    
    
 .. image:: _images/Editor_macOS_Controls_Menubar.png
-   :width: 300px
    :alt: alternate text
 
 Attaching Photos
