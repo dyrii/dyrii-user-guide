@@ -132,9 +132,30 @@ If you have large data to import, it might take few minutes for the import proce
 .. index:: Export
 Export
 ------------
+The entries from Dyrii can be printed or exported as PDFs. This option is located in post view under Export option. See below screenshots on how to get to this option for reference.
 
-- Be awesome
-- Make things faster
+iOS
+Step 1: Navigate to post detail view and click on more (...) button.
+
+
+
+Step 2: Click on Export option and select "Export as PDF".
+
+
+
+Step 3: Select either Print or one of the available export mediums such as mail or message
+
+
+
+Step 4: If printing, select from the print options. 
+
+Note: Printers with Airprint support should automatically show up here.
+
+
+
+Mac
+On Mac, this option resides on the Menu bar under File/Export as PDF. Here you will be able to command-select multiple entries and print them selectively on one PDF as illustrated in the screenshot below.
+
 
 .. index:: Reset
 Reset
