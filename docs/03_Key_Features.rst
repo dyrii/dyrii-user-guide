@@ -62,13 +62,13 @@ Dyrii supports entering posts in rich text format with inline attachments (image
    :alt: alternate text
 
 
-Mac
-On Mac, the toolbar appears at the bottom of the screen and is collapsed by default. These options are also located under the menu bar as indicated in the image below.
+Mac: On Mac, the toolbar appears at the bottom of the screen and is collapsed by default. These options are also located under the menu bar as indicated in the image below.
 
 
 .. image:: _images/Editor_macOS_Controls_Collapsed.png
    :alt: alternate text
    
+
 
 .. image:: _images/Editor_macOS_Controls_Expanded.png
    :alt: alternate text
