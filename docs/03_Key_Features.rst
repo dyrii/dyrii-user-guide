@@ -55,16 +55,25 @@ The Health perspective provides a view into your health and mood entries group b
 .. index:: Editor
 Editor
 -------
-Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+Dyrii supports entering posts in rich text format with inline attachments (images, audio, video files). The controls to format the text are available on the swipeable toolbar which is located above the keyboard as shown in the image below.
 
 .. image:: _images/iphone_editor_toolbar.PNG
    :width: 300px
    :alt: alternate text
-iOS
-On iOS, the toolbar appears right below the keyboard.
+
 
 Mac
-On Mac, the toolbar appears at the bottom of the screen.
+On Mac, the toolbar appears at the bottom of the screen and is collapsed by default. These options are also located under the menu bar as indicated in the image below.
+
+
+.. image:: _images/iphone_editor_toolbar.PNG
+   :width: 300px
+   :alt: alternate text
+   
+
+.. image:: _images/iphone_editor_toolbar.PNG
+   :width: 300px
+   :alt: alternate text
 
 Attaching Photos
 -------
