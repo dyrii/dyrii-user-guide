@@ -57,6 +57,9 @@ Editor
 -------
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
+.. image:: _images/iphone_editor_toolbar.PNG
+   :width: 300px
+   :alt: alternate text
 iOS
 On iOS, the toolbar appears right below the keyboard.
 
