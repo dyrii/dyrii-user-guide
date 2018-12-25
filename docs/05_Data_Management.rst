@@ -7,15 +7,31 @@ Data Management
 Sync
 --------
 
-- Be awesome
-- Make things faster
+Dyrii using Apple iCloud for storage. We have written custom sync solution on top of iCloud to refresh your data on all your devices. 
+
+iOS
+To enable this function on iOS, navigate to Settings/Storage and select iCloud as the option. Sync cannot be enabled unless you select iCloud for data storage. Once selected, sync will automatically turn on. We have also provided setting to disable sync when not on Wifi which can be accessed from Settings/Manage Data/Sync. 
+
+Mac
+On the Mac, this option resides in the top toolbar as indicated in the screenshot below. This option can also be enabled from the Preferences settings as indicated in the below screenshot. 
+
 
 .. index:: Backup
 Backup
 --------
 
-- Be awesome
-- Make things faster
+The database and support files (including user data) used for the operation of Dyrii Mac App, resides under following folder. While all your data might be already stored in iCloud, some entries might still be local on the device and waiting to be synced. Making a copy this folder to a safe place manually, will enable you to to back up everything from your specific device.
+
+~/Library/Containers/com.ectree.Dyrii-Mac/
+
+Use this option if you ever need to to wipe clean your hard drive or replace your computer. While copying, make a full copy of this folder including the root folder "com.ectree.Dyrii-Mac". 
+
+To restore this data to a new computer, just copy paste this the "com.ectree.Dyrii-Mac" folder to the ~/Library/Containers/ directory on your new computer or drive. Dyrii app should not be running while you do this operation.
+
+ 
+
+IMPORTANT NOTE: Do not tamper with the files inside this folder. These files are used by the application and tampering them might cause the application to crash or not function properly. If you have questions, please leave a comment on this post or email us at support@dyrii.com.
+
 
 .. index:: Restore
 Restore
