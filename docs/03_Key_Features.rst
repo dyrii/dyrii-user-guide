@@ -7,18 +7,24 @@ Key Features
 .. index:: Timeline
 Timeline
 --------
-Timeline Cell and Grouping, iCloud icons 
-This section of the app provides a rolling timeline of all your entries by creation timestamp. Entries are grouped by day under a date header.
+This view provides a rolling timeline of all your entries in the journal. If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. On macOS, this behavior is slighly different where we download all the entries on the device instead of batching it like we do on iOS.
 
-iOS
+.. image:: _images/timeline_view_ios.jpeg
+   :width: 300px
+   :alt: iOS Timeline
+   
 
-Mac
-On the Mac, the timeline view is integrated with the year and month perspective view for ease of use on a bigger screen.
 
 .. index:: Day View
 Day View
 ------------
 While some users may like a rolling timeline view, some may prefer a more traditional day by day view format. The Today view addresses this need. The users are also allowed to set this view as their default view from under Menu.
+
+
+.. image:: _images/iphone_today_week.jpg
+   :width: 300px
+   :alt: alternate text
+
 
 iOS
 While the default view is loaded for the current week, users can swipe left or right to scroll through their weeks. The view on the top has a top-down swipe gesture to expand the number of visible days to display a full month.
@@ -26,16 +32,13 @@ While the default view is loaded for the current week, users can swipe left or r
 The today view also displays all the places you have visited during the given day. Feature is turned off by default due to privacy reasons but can be turned on from Settings/Personalize/Track Place Visited.
 
 Mac
-On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. 
-
-
-To deselect the day view, simply click on the X button on the top of the view. 
+On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. To deselect the day view, simply click on the X button on the top of the view. 
 
 
 .. index:: Perspective
 Perspective
 ----------
-Perspective is a premium section that provides various lens for viewing your data. For example, a view into your entires by year, by month, by city, country. etc.
+Perspective view provides various lens for viewing your data. For example, a view into your entires by year, by month, by city, country. etc.
 
 iOS
 To access this section, navigate to Menu/Perspective. New users are allowed 25 free previews to this section to give them a feel of this feature.
@@ -63,6 +66,7 @@ On Mac, the toolbar appears at the bottom of the screen.
 Attaching Photos
 -------
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
 
 Attaching Video
 -------
