@@ -32,7 +32,7 @@ Import
 Dyrii supports migrating your existing data from Day One Classic and Day One v2. These import options are available in both iOS and Mac version of the app. 
 
 
-Migrating from Day One Classic
+Migrating from Day One Classic:
 To import your entries from Day One Classic, follow the following steps.
 
 1. On your Mac, open Day One Classic and navigate to Preferences\Backup tab.
@@ -96,7 +96,8 @@ Copy the entries and photos folders from the backup file location to the above J
 Now, try to import from Dyrii and point to the Journal_dayone folder.
 If you are still having issues, please leave a comment below or email us at support@dyrii.com
 
-Migrating from DayOne v2
+
+Migrating from DayOne v2:
 
 To import your entries from Day One v2, follow the following steps:
 
