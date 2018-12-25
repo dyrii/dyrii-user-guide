@@ -66,12 +66,17 @@ Mac
 On Mac, the toolbar appears at the bottom of the screen and is collapsed by default. These options are also located under the menu bar as indicated in the image below.
 
 
-.. image:: _images/iphone_editor_toolbar.PNG
+.. image:: _images/Editor_macOS_Controls_Collapsed.png
    :width: 300px
    :alt: alternate text
    
 
-.. image:: _images/iphone_editor_toolbar.PNG
+.. image:: _images/Editor_macOS_Controls_Expanded.png
+   :width: 300px
+   :alt: alternate text
+   
+   
+.. image:: _images/Editor_macOS_Controls_Menubar.png
    :width: 300px
    :alt: alternate text
 
