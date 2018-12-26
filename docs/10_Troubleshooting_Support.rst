@@ -67,12 +67,12 @@ You can send this to bugs@dyrii.com.
 
 Support Articles
 ----------
-We have more support articles located online at `articles.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/sections/115001210287>`_ 
+For more support articles, please visit our online knowledgebase loaced at `articles.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/sections/115001210287>`_.
 
 
 Online Community
 ----------
-We have more support articles located online at `community.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/community/topics>`_ 
+We also have a vibrant support community located at `community.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/community/topics>`_.
 
 
 Contact us
