@@ -34,7 +34,7 @@ Menu Screen
 Settings Screen
 ^^^^^^^^^
 
-.. image:: _images/timeline_view_ios.jpeg
+.. image:: _images/iphone_settings.png
    :width: 300px
    :alt: iOS Timeline
 
