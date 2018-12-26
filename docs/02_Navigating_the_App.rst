@@ -10,28 +10,28 @@ At a high level, the app is structured into following five key screens:
 Landing Screen
 ^^^^^^^^^
 
-.. image:: _images/timeline_view_ios.jpeg
+.. image:: _images/navigation_landing_iOS.png
    :width: 300px
    :alt: iOS Timeline
 
 New Entry Screen
 ^^^^^^^^^
 
-.. image:: _images/timeline_view_ios.jpeg
+.. image:: _images/navigation_editor_iOS.png
    :width: 300px
    :alt: iOS Timeline
 
 Entry Detail Screen
 ^^^^^^^^^
 
-.. image:: _images/timeline_view_ios.jpeg
+.. image:: _images/navigation_entrydetail_iOS.png
    :width: 300px
    :alt: iOS Timeline
 
 Menu Screen
 ^^^^^^^^^
 
-.. image:: _images/timeline_view_ios.jpeg
+.. image:: _images/navigation_menu_iOS.png
    :width: 300px
    :alt: iOS Timeline
 
