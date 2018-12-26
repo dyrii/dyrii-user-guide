@@ -67,17 +67,15 @@ You can send this to bugs@dyrii.com.
 
 Support Articles
 ----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+We have more support articles located online at `articles.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/sections/115001210287>`_ 
 
 
 Online Community
 ----------
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+We have more support articles located online at `community.dyrii.com <https://dyrii-support.zendesk.com/hc/en-us/community/topics>`_ 
 
 
 Contact us
 ----------
-If you require further assistance please visit support.dyrii and click on “Submit a Ticket” and a technical support person will reply back to you.
+If you require further assistance please visit support.dyrii.com and click on “Submit a Ticket” and a technical support person will reply back to you.
+
