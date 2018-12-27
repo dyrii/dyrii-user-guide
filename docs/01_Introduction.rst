@@ -1,4 +1,7 @@
 
+
+.. note:: This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <http://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_ file. For a list of all the topic index we covered, visit here: :ref:`genindex`.
+
 Introduction
 ***********
 
@@ -37,7 +40,4 @@ Dyrii App is currently avaialble only on Apple platforms for iOS and macOS. The 
 .. |pic2| image:: _images/macos_appstore_link.png
    :width: 40%
 
-
-
-.. note:: This guide is also downloadable as a `PDF <http://readthedocs.org/projects/dyrii-user-guide/downloads/pdf/latest/>`_ or `EPUB <http://readthedocs.org/projects/dyrii-user-guide/downloads/epub/latest/>`_ file. For a list of all the topic index we covered, visit here: :ref:`genindex`.
 
