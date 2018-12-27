@@ -46,6 +46,7 @@ This view also contains the doorway to Settings screen from where you can config
 
 Settings Screen
 ^^^^^^^^^
+The Settings screen is organized into several sections for ease of access as indicated in below figure. Less frequently used features such System Logs and Sync Resets are tucked away under Advanced Features section. Whereas most frequently used options are located under Manage Data and Personalisation sections. 
 
 .. image:: _images/navigation_settings_iOS.png
    :alt: iOS Timeline
