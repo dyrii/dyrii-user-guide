@@ -227,7 +227,7 @@ There are several templates available in the template library covering various 
 Note: The library will be routinely updated with new templates so if you finding something missing, please let us know and we will get them added in a future version.
 
 
-.. figure:: _images/ios_template_editor.png
+.. figure:: _images/ios_editor_template.png
    :width: 300px
    :alt: Writing Templates
 
