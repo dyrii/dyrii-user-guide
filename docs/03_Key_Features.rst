@@ -182,7 +182,42 @@ Day trails allow you to track all the places you visit in a day on a day by day 
 
 Writing Templates
 ------------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+Writing templates help you to record your day effortlessly. We have included in the template library several handpicked templates such as Dream Journal, Gratitude journal, Nightly Q&A etc.
+
+.. figure:: _images/ios_template_list.jpeg
+   :width: 300px
+   :alt: Writing Templates
+
+iOS: In order to access the templates, click on the Template Library icon in the Editor Toolbar (highlighted in the screenshot below).
+
+.. figure:: _images/ios_editor_template.png
+   :width: 300px
+   :alt: Writing Templates
+
+There are several templates available in the template library covering various journaling use cases. Each template can be previewed by clicking on the disclosure icon (circular button with i). To use one of the templates, just tap on the template row or "Use" button from the Preview page.
+
+Note: The library will be routinely updated with new templates so if you finding something missing, please let us know and we will get them added in a future version.
+
+
+.. figure:: _images/ios_template_editor.png
+   :width: 300px
+   :alt: Writing Templates
+
+While picking a template, you will be asked to confirm your action because this will replace the content in your editor and if you have any unsaved text, you might lose it. 
+
+
+Mac: In order to access the templates on Mac, navigate to the Editor and click on more button. Under the more option, click on Templates to see the list of templates that are available. 
+
+.. figure:: _images/macos_template_editor.png
+   :width: 300px
+   :alt: Writing Templates
+
+In the template library screen, you will be able to preview the templates. Once you have pick the template you want to use, click on the "Use this template" button to start writing using that template.
+
+.. figure:: _images/macos_template_list.png
+   :width: 300px
+   :alt: Writing Templates
+
 
 Tags
 ------------
