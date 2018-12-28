@@ -31,6 +31,11 @@ While some users may like a rolling timeline view, some may prefer a more tradit
 
 iOS: While loading this view, we default it to today's date. But users can swipe left or right to scroll through their days. The view on the top has a top-down swipe gesture that will allow you to expand the number of visible days from week view to month view.
 
+.. image:: _images/iphone_today_month.jpg
+   :width: 300px
+   :alt: alternate text
+
+
 This view also displays all the places you have visited during the given day as pins on map. We call this view Day Trail and this feature is turned off by default due to privacy reasons. Users can turned on this feature from Settings/Personalize/Track Place Visited.
 
 Mac: On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. To deselect the day view, simply click on the X button on the top of the view. 
@@ -261,7 +266,12 @@ iOS:
 
 Local Mode
 -------
-This pirvacy focused allows users to store data on the device without uploading them to the cloud. 
+For users who want utmost privacy, Dyrii supports storing data locally on the device without uploading the data on any external servers. This option is prompted when you install Dyrii on startup. This preference can be changed anytime later under Settings > Storage.
+
+.. image:: _images/iphone_storage_option_startup.jpeg
+   :width: 300px
+   :alt: alternate text
+
 
 iCloud Mode
 -------
