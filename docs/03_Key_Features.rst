@@ -15,7 +15,6 @@ This view provides a rolling timeline of all your entries in the journal, groupe
 On macOS, the incremental fetch behavior is slightly different where we download all the entries on the device instead of batching it like we do on iOS.
 
 .. image:: _images/timeline_view_macOS.jpeg
-   :width: 300px
    :alt: iOS Timeline
 
 .. index:: Day View
