@@ -190,7 +190,7 @@ Writing templates help you to record your day effortlessly. We have included in 
 
 iOS: In order to access the templates, click on the Template Library icon in the Editor Toolbar (highlighted in the screenshot below).
 
-.. figure:: _images/ios_editor_template.png
+.. figure:: _images/ios_template_editor.png
    :width: 300px
    :alt: Writing Templates
 
@@ -209,13 +209,11 @@ While picking a template, you will be asked to confirm your action because this 
 Mac: In order to access the templates on Mac, navigate to the Editor and click on more button. Under the more option, click on Templates to see the list of templates that are available. 
 
 .. figure:: _images/macos_template_editor.png
-   :width: 300px
    :alt: Writing Templates
 
 In the template library screen, you will be able to preview the templates. Once you have pick the template you want to use, click on the "Use this template" button to start writing using that template.
 
 .. figure:: _images/macos_template_list.png
-   :width: 300px
    :alt: Writing Templates
 
 
