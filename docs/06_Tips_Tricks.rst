@@ -81,8 +81,12 @@ iOS
 
 Prints & PDFs
 --------
+A most common use case of exporting data from a journal is to print it or archive it as PDF. Dyrii supports exporting entries as PDFs. This can be done at entry level or view level (e.g exporting entries beloning to a given tag, year etc.).
 
-Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
+.. image:: _images/export_pdf_ios.jpeg
+   :width: 300px
+   :alt: iOS Timeline
+
 
 Importing from Voice Memo App
 --------
