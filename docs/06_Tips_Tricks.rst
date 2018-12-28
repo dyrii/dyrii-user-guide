@@ -86,9 +86,21 @@ Dyrii is equipped with a powerful search capability. The search function scans 
 
 Importing from Voice Memo App
 --------
-Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
+Dyrii supports importing voice recordings from Apple's Voice Memo App on iOS. To import, select Share option from the Voice Memos app and select Dyrii from the export application list as indicated in the screenshots below.
+
+.. image:: _images/import_voice_memo_ios_1.png
+   :width: 300px
+   :alt: iOS Timeline
+   
+.. image:: _images/import_voice_memo_ios_2.JPG
+   :width: 300px
+   :alt: iOS Timeline
 
 Importing from Notes App
 --------
-Dyrii is equipped with a powerful search capability. The search function scans the local data available on the device as well as the data available on the cloud. The toggles for this local/cloud option resides under the search bar.
+Dyrii also supports importing Notes from Apple's Notes App on iOS. To import, select Share option from the Notes app and select Dyrii from the export application. Please note that since Dyrii doesn't support attachments other than images, videos, and audio files, such attachments if encountered will be skipped durning the import process.
 
+
+Smart Invert Mode
+--------
+While Dyrii doesn't have a dedicated dark mode, it does support Apple's Smart Invert Mode which provides a standarized dark interface across iOS. 
