@@ -2,11 +2,26 @@
 ========
 Key Features
 ========
+In this section, we will cover some of the key features present in Dyrii.
 
+.. index:: Perspective
+Perspective
+----------
+As the name implies, this view provides different perspectives of your journal data. Timeline and Day view are two such views that we have looked at before but there are many more. In this section, we will explore these Perspective view (also called as Journal views). 
+
+iOS: To access this section, navigate to Menu/Perspective. 
+
+.. image:: _images/iphone_perspective.jpeg
+   :width: 300px
+   :alt: alternate text
+
+Mac: Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
+
+There are additional options on each perspective view that will allow you to print, export, and generate backup files.
 
 .. index:: Timeline
 Timeline
---------
+^^^^^^^^^
 This view provides a rolling timeline of all your entries in the journal, grouped and sorted by creation dateime. If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. 
 
 .. image:: _images/timeline_view_ios.jpeg
@@ -18,9 +33,10 @@ On macOS, the incremental fetch behavior is slightly different where we download
 .. image:: _images/timeline_view_macOS.jpeg
    :alt: iOS Timeline
 
+
 .. index:: Day View
 Day View
-------------
+^^^^^^^^^
 While some users may like a rolling timeline view, some may prefer a more traditional day by day view as provided by this view. This view can also be set as the default landing screen view from Menu screen. We will talk more about this personalisation under Chapter 4. Personalisation.
 
 
@@ -40,27 +56,6 @@ This view also displays all the places you have visited during the given day as 
 
 Mac: On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. To deselect the day view, simply click on the X button on the top of the view. 
 
-
-.. index:: Perspective
-Perspective
-----------
-As the name implies, this view provides different perspectives of your journal data. Timeline view, Day view, Atlas view are three such views that we have looked at before but there are many more e.g. Year view, Album View, Calander view, Cities view etc. some of which we will explore below.
-
-iOS: To access this section, navigate to Menu/Perspective. 
-
-.. image:: _images/iphone_perspective.jpeg
-   :width: 300px
-   :alt: alternate text
-
-Mac: Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
-
-There are additional options on each perspective view that will allow you to print, export, and generate backup files.
-
-.. index:: Health Activity
-Health Activity
-^^^^^^^^^
-The Health perspective provides a view into your health and mood entries group by month and year. There an option to even print this as a PDF report so that you can takeit with you to the doctor.
-
 .. index:: Atlas
 Atlas 
 ^^^^^^^^^
@@ -71,6 +66,29 @@ Sometimes displaying entries in a list format is not enough, specically when you
    :alt: alternate text
 
 This view provides some additional customisation wherein you could toogle to view your city index on the map as pins or geolocation coordinates from each entry. 
+
+.. index:: Health Activity
+Health Activity
+^^^^^^^^^
+The Health perspective provides a view into your health and mood entries group by month and year. There an option to even print this as a PDF report so that you can takeit with you to the doctor.
+
+.. index:: Years
+Year View 
+^^^^^^^^^
+This view displays entries for a given year. This view is useful when you want to look back for a historical year or export all the entries for the year.
+
+.. image:: _images/iphone_atlas.jpeg
+   :width: 300px
+   :alt: alternate text
+
+.. index:: Cities
+City View 
+^^^^^^^^^
+If you have enabled geolocation, then city name is automatically tagged to each entry in the journal. This information is indexed and this view provides a way to view all the entries that are tagged to a given city. This view is useful when you want to look back on a time period when you visited a given city. 
+
+.. image:: _images/iphone_atlas.jpeg
+   :width: 300px
+   :alt: alternate text
 
 .. index:: Editor
 Editor
@@ -148,7 +166,6 @@ Place checkin is a feature that allows you to bookmark a specific location in an
 The Checkin page will automatically show you the list of places that are near your current location. If the list of places does not load automatically, then click on the location triangle button on the top to reload the list. 
 
 You can also search for a specific location using the search bar on the top.
-
 
 
 Checkin information is stored against the post entry. We store the following information for checkins.
