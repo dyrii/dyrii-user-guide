@@ -11,7 +11,7 @@ As the name implies, this view provides different perspectives of your journal d
 
 iOS: To access this section, navigate to Menu/Perspective. 
 
-.. image:: _images/iphone_perspective.jpeg
+.. image:: _images/perspective_pitch_ios.png
    :width: 300px
    :alt: alternate text
 
@@ -72,12 +72,26 @@ Health Activity
 ^^^^^^^^^
 The Health perspective provides a view into your health and mood entries group by month and year. There an option to even print this as a PDF report so that you can takeit with you to the doctor.
 
+.. image:: _images/ios_health_activity.jpeg
+   :width: 300px
+   :alt: alternate text
+
+Life Milestones
+------------
+This view provides a way to summarize and pin major life events in a brief timeline to look back on. Entries can be tagged as Life Milestone by tagging this type via Editor toolbar.
+
+.. image:: _images/life_milestones_ios.png
+   :width: 300px
+   :alt: alternate text
+   :align: right
+
+
 .. index:: Years
 Year View 
 ^^^^^^^^^
 This view displays entries for a given year. This view is useful when you want to look back for a historical year or export all the entries for the year.
 
-.. image:: _images/iphone_atlas.jpeg
+.. image:: _images/years_view.PNG
    :width: 300px
    :alt: alternate text
 
@@ -117,49 +131,38 @@ Mac: On Mac, the toolbar appears at the bottom of the screen and is collapsed by
 
 
 Attaching Photos
--------
+^^^^^^^^^
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
 
 Attaching Video
--------
+^^^^^^^^^
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
 Attaching Audio
--------
+^^^^^^^^^
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
-Importing from Photos App
--------
-To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
-
-Editing Photos & Filters
-----------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
-
-Checking In
--------
-Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
 Attaching Weather Info
--------
+^^^^^^^^^
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
-Mood
--------
+Adding Mood
+^^^^^^^^^
 Dyrii allows you to record your mood history against an entry. This function resides in the editor and can be invoked by clicking on the "Add Mood" link. 
 
 The popup list all available mood option. Currently, you will not be able to add custom entries to this list but you can email us if you would like us to add a new entry that wemight have missed.
 
-Health Events
-----------
+Adding Health Symptom
+^^^^^^^^^
 Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
 To add health event, navigate to the Editor and click on the "Add Symptoms" link on the toolbar.
 
 
-Place Checkins
--------
+Adding Place Checking In
+^^^^^^^^^
 
 Place checkin is a feature that allows you to bookmark a specific location in an entry. It works very similar to how Facebook Check in works. To access this feature, select the "Checkin" option from the new post screen.
 
@@ -176,6 +179,15 @@ Address of the Place
 Coordinates of the Place
 Google Places URL of the Place
 The above information is also indexed and shown on the Perspective section. Right now the perspective section shows very limited information about these checkins but we plan to expand this in the future to also display checkin statistics.
+
+
+Importing from Photos App
+-------
+To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
+
+Editing Photos & Filters
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
 Changing Metadata
 -------
@@ -245,18 +257,12 @@ Dyrii allows you to create custom tags to better organising journal entires. The
 
 Sketching 
 ------------
-Sketching using Apple Pencil
+In addition to typing, Dyrii also supports handwriting using Apple Pencil on iPad.
 
-Life Milestones
-------------
-
-.. image:: _images/day_trails.jpg
+.. image:: _images/dyrii_apple_pencil.jpg
    :width: 200px
    :alt: alternate text
-   :align: right
 
-Install $project by running:
-    install project
 
 Flashback
 ----------
@@ -309,8 +315,6 @@ b) Export
 c) Tag
 
 Note: Bulk editing options are currently not available on Mac.
-
-iOS:
 
 
 
