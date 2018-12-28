@@ -7,13 +7,12 @@ Key Features
 .. index:: Timeline
 Timeline
 --------
-This view provides a rolling timeline of all your entries in the journal. If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. On macOS, this behavior is slighly different where we download all the entries on the device instead of batching it like we do on iOS.
-
+This view provides a rolling timeline of all your entries in the journal, grouped and sorted by creation dateime. If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. 
 .. image:: _images/timeline_view_ios.jpeg
    :width: 300px
    :alt: iOS Timeline
 
-In this view, all your journal entries are loaded here grouped and sorted by creation date. We will tell you more in Chapter 6 Personalize on how to change this default view from Settings. 
+On macOS, the incremental fetch behavior is slightly different where we download all the entries on the device instead of batching it like we do on iOS.
 
 .. image:: _images/timeline_view_macOS.jpeg
    :width: 300px
@@ -22,7 +21,7 @@ In this view, all your journal entries are loaded here grouped and sorted by cre
 .. index:: Day View
 Day View
 ------------
-While some users may like a rolling timeline view, some may prefer a more traditional day by day view format. The Day view addresses this need. The users are also allowed to set this view as their default view from under Menu.
+While some users may like a rolling timeline view, some may prefer a more traditional day by day view as provided by this view. This view can also be set as the default landing screen view from Menu screen. We will talk more about this personalisation under Chapter 4. Personalisation.
 
 
 .. image:: _images/iphone_today_week.jpg
@@ -30,9 +29,9 @@ While some users may like a rolling timeline view, some may prefer a more tradit
    :alt: alternate text
 
 
-iOS: While the default view is loaded for the current week, users can swipe left or right to scroll through their weeks. The view on the top has a top-down swipe gesture to expand the number of visible days to display a full month.
+iOS: While loading this view, we default it to today's date. But users can swipe left or right to scroll through their days. The view on the top has a top-down swipe gesture that will allow you to expand the number of visible days from week view to month view.
 
-The today view also displays all the places you have visited during the given day. Feature is turned off by default due to privacy reasons but can be turned on from Settings/Personalize/Track Place Visited.
+This view also displays all the places you have visited during the given day as pins on map. We call this view Day Trail and this feature is turned off by default due to privacy reasons. Users can turned on this feature from Settings/Personalize/Track Place Visited.
 
 Mac: On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. To deselect the day view, simply click on the X button on the top of the view. 
 
@@ -40,9 +39,9 @@ Mac: On Mac, the today view is integrated with the Calander view located at the 
 .. index:: Perspective
 Perspective
 ----------
-Perspective view provides various lens for viewing your data. For example, a view into your entires by year, by month, by city, country. etc.
+As the name implies, this view provides different perspectives of your journal data. Timeline view, Day view, Atlas view are three such views that we have looked at before but there are many more e.g. Year view, Album View, Calander view, Cities view etc. some of which we will explore below.
 
-iOS: To access this section, navigate to Menu/Perspective. New users are allowed 25 free previews to this section to give them a feel of this feature.
+iOS: To access this section, navigate to Menu/Perspective. 
 
 .. image:: _images/iphone_perspective.jpeg
    :width: 300px
@@ -50,10 +49,14 @@ iOS: To access this section, navigate to Menu/Perspective. New users are allowed
 
 Mac: Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
 
-Similarly, the Atlas perspective that displays all your entries on a map is accessible by clicking on the Atlas menu item in the sidebar.
+There are additional options on each perspective view that will allow you to print, export, and generate backup files.
 
+.. index:: Health Activity
+Health Activity
+^^^^^^^^^
 The Health perspective provides a view into your health and mood entries group by month and year. There an option to even print this as a PDF report so that you can takeit with you to the doctor.
 
+.. index:: Atlas
 Atlas 
 ^^^^^^^^^
 Sometimes displaying entries in a list format is not enough, specically when you want to browse through your entires based on places you have visited across the globe. We have added Atlas view for that reason. You can get to this view from the Main Menu. 
