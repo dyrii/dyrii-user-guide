@@ -13,6 +13,7 @@ iOS: To access this section, navigate to Menu/Perspective.
 
 .. image:: _images/perspective_pitch_ios.png
    :alt: alternate text
+   :align: right
 
 Mac: Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
 
@@ -82,7 +83,6 @@ This view provides a way to summarize and pin major life events in a brief timel
 .. image:: _images/life_milestones_ios.png
    :width: 300px
    :alt: alternate text
-   :align: right
 
 
 .. index:: Years
@@ -212,13 +212,14 @@ Writing Templates
 ------------
 Writing templates help you to record your day effortlessly. We have included in the template library several handpicked templates such as Dream Journal, Gratitude journal, Nightly Q&A etc.
 
-.. figure:: _images/ios_template_list.jpeg
+.. figure:: _images/ios_editor_template.png
    :width: 300px
    :alt: Writing Templates
 
+
 iOS: In order to access the templates, click on the Template Library icon in the Editor Toolbar (highlighted in the screenshot below).
 
-.. figure:: _images/ios_template_editor.png
+.. figure:: _images/ios_template_list.jpeg
    :width: 300px
    :alt: Writing Templates
 
@@ -226,10 +227,10 @@ There are several templates available in the template library covering various 
 
 Note: The library will be routinely updated with new templates so if you finding something missing, please let us know and we will get them added in a future version.
 
-
-.. figure:: _images/ios_editor_template.png
+.. figure:: _images/ios_template_editor.png
    :width: 300px
    :alt: Writing Templates
+
 
 While picking a template, you will be asked to confirm your action because this will replace the content in your editor and if you have any unsaved text, you might lose it. 
 
@@ -259,7 +260,6 @@ Sketching
 In addition to typing, Dyrii also supports handwriting using Apple Pencil on iPad.
 
 .. image:: _images/dyrii_apple_pencil.jpg
-   :width: 200px
    :alt: alternate text
 
 
