@@ -12,7 +12,6 @@ As the name implies, this view provides different perspectives of your journal d
 iOS: To access this section, navigate to Menu/Perspective. 
 
 .. image:: _images/perspective_pitch_ios.png
-   :width: 300px
    :alt: alternate text
 
 Mac: Pespectives on Mac is spread into multiple menu items on the Sidebar. For example, to view entries by year, you drill down under the Timeline menu. 
