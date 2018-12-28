@@ -13,7 +13,7 @@ This view provides a rolling timeline of all your entries in the journal, groupe
    :width: 300px
    :alt: iOS Timeline
 
-On macOS, the incremental fetch behavior is slightly different where we download all the entries on the device instead of batching it like we do on iOS.
+On macOS, the incremental fetch behavior is slightly different where we download all the entries on the device instead of batching it like we do on iOS. This is done due to the computing resource difference across iOS and macOS. 
 
 .. image:: _images/timeline_view_macOS.jpeg
    :alt: iOS Timeline
@@ -106,6 +106,14 @@ Attaching Audio
 -------
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
 
+Importing from Photos App
+-------
+To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
+
+Editing Photos & Filters
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
 Checking In
 -------
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
@@ -113,6 +121,39 @@ Dyrii supports entering posts in rich text format with inline images. The contro
 Attaching Weather Info
 -------
 Dyrii supports entering posts in rich text format with inline images. The controls to format the text are available on the Editor Toolbar. 
+
+Mood
+-------
+Dyrii allows you to record your mood history against an entry. This function resides in the editor and can be invoked by clicking on the "Add Mood" link. 
+
+The popup list all available mood option. Currently, you will not be able to add custom entries to this list but you can email us if you would like us to add a new entry that wemight have missed.
+
+Health Events
+----------
+Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+
+To add health event, navigate to the Editor and click on the "Add Symptoms" link on the toolbar.
+
+
+Place Checkins
+-------
+
+Place checkin is a feature that allows you to bookmark a specific location in an entry. It works very similar to how Facebook Check in works. To access this feature, select the "Checkin" option from the new post screen.
+
+The Checkin page will automatically show you the list of places that are near your current location. If the list of places does not load automatically, then click on the location triangle button on the top to reload the list. 
+
+You can also search for a specific location using the search bar on the top.
+
+
+
+Checkin information is stored against the post entry. We store the following information for checkins.
+
+Name of the Place
+Place Category (for example, restaurant, coffee shop, etc.) 
+Address of the Place
+Coordinates of the Place
+Google Places URL of the Place
+The above information is also indexed and shown on the Perspective section. Right now the perspective section shows very limited information about these checkins but we plan to expand this in the future to also display checkin statistics.
 
 Changing Metadata
 -------
@@ -181,9 +222,6 @@ Dyrii allows you to tag health events in your journal which then gets displayed 
 ----------
 Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
-Editing Photos & Filters
-----------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
 Editing Sketches
 ----------
@@ -193,39 +231,6 @@ Writing Statistics
 ----------
 Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
 
-Health Events
-----------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
-
-To add health event, navigate to the Editor and click on the "Add Symptoms" link on the toolbar.
-
-
-Place Checkins
--------
-
-Place checkin is a feature that allows you to bookmark a specific location in an entry. It works very similar to how Facebook Check in works. To access this feature, select the "Checkin" option from the new post screen.
-
-The Checkin page will automatically show you the list of places that are near your current location. If the list of places does not load automatically, then click on the location triangle button on the top to reload the list. 
-
-You can also search for a specific location using the search bar on the top.
-
-
-
-Checkin information is stored against the post entry. We store the following information for checkins.
-
-Name of the Place
-Place Category (for example, restaurant, coffee shop, etc.) 
-Address of the Place
-Coordinates of the Place
-Google Places URL of the Place
-The above information is also indexed and shown on the Perspective section. Right now the perspective section shows very limited information about these checkins but we plan to expand this in the future to also display checkin statistics.
-
-
-Mood
--------
-Dyrii allows you to record your mood history against an entry. This function resides in the editor and can be invoked by clicking on the "Add Mood" link. 
-
-The popup list all available mood option. Currently, you will not be able to add custom entries to this list but you can email us if you would like us to add a new entry that wemight have missed.
 
 Passcode
 -------
@@ -236,11 +241,6 @@ Note: The passcode protection is local to the device and the passcode does not s
 iOS: To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. 
 
 Mac: On the mac, to enable this function, click on the lock button on the toolbar and pick a passcode. 
-
-
-Importing from Photos App
--------
-To set passcode protection, navigate to Settings/Personalize/Passcode option and enable this option. Both the timeline and day view contains bulk editing options that are available by long-pressing an entry. Using the bulk action, you will be able to due following action on multiple entires:
 
 
 Backdating Entries
