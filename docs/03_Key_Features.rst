@@ -275,5 +275,21 @@ For users who want utmost privacy, Dyrii supports storing data locally on the de
 
 iCloud Mode
 -------
-how syncing works with progressive download
+While Local Mode provides 100% data privacy, it doesn't provide syncing options for users who have a need to work on their journal through on multiple devices. With iCloud Mode, your data is stored on your personal iCloud account on Apple Server. This shield us from having any access to your data and provide a privacy focused product. We have also written custom sync solution on top of Apple's CloudKit framework, thereby pricing a highly reliable and efficient syncing solution. For more information, please visit below Apple documentation on iCloud.
+
+https://developer.apple.com/icloud/
+https://developer.apple.com/documentation/cloudkit
+
+iOS: To enable iCloud, navigate to Settings > Storage and select iCloud as the option. Sync cannot be enabled unless you select iCloud for data storage. Once selected, sync will automatically turn on. We have also provided setting to disable sync when not on Wifi which can be accessed from Settings > Manage Data > Sync. 
+
+Mac: To enable iCloud on Mac, click on the Cloud icon that is provided on the top right toolbar. This option is also located under Preference > Manage Data as indicated in below screenshot.
+
+
+.. image:: _images/mac_preference_manage_data.png
+   :width: 300px
+   :alt: alternate text
+
+.. image:: _images/mac_main_view.png
+   :width: 300px
+   :alt: alternate text
 
