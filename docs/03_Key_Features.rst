@@ -8,6 +8,7 @@ Key Features
 Timeline
 --------
 This view provides a rolling timeline of all your entries in the journal, grouped and sorted by creation dateime. If you have enabled iCloud, this view in iOS will fetch your posts from iCloud in a batches for 100 and consecutive batches will be downloaded as you scroll down to the bottom of this view. 
+
 .. image:: _images/timeline_view_ios.jpeg
    :width: 300px
    :alt: iOS Timeline
