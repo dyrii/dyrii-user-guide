@@ -42,7 +42,7 @@ Favorities
 -------
 As we discussed in previous chapter, Dyrii allows you to mark entries as favorites, which can then be viewed as a journal view under Menu screen. In addition, we have designed Favorites to serve as either 5-star rating based system or a binary flag based system. You can configure this behavior from Settings > Personalize > Use 5-stars for Favorites. The default option is set to behave as a binary flag based system. 
 
-.. image:: _images/reminder_frequency_ios.JPG
+.. image:: _images/ios_favs.jpeg
    :width: 300px
    :alt: alternate text
 
@@ -50,7 +50,7 @@ First Day of Week
 -------
 In the previous chapter, we discussed how a weekly header strip is displayed in Day View. There the first day of the week is set to Sunday by default but this option can be changed to any day of the week. This option is located under Settings > Preference > First Day of the Week. This option also affects the behavior in the calendar view under Perspectives. 
 
-.. image:: _images/reminder_frequency_ios.JPG
+.. image:: _images/ios_firstday.jpeg
    :width: 300px
    :alt: alternate text
 
