@@ -286,10 +286,8 @@ Mac: To enable iCloud on Mac, click on the Cloud icon that is provided on the to
 
 
 .. image:: _images/mac_preference_manage_data.png
-   :width: 300px
    :alt: alternate text
 
 .. image:: _images/mac_main_view.png
-   :width: 300px
    :alt: alternate text
 
