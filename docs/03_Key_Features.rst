@@ -162,25 +162,22 @@ Dyrii supports entering posts in rich text format with inline attachments (image
 
 The controls in this swipeable toolbar are organized into four pages (indicated by small dots). The first page (default page) contains controls to insert attachments such as template, photos, audio, video, and handwriting. 
 
-.. image:: _images/iphone_editor_toolbar.PNG
-   :width: 300px
-   :alt: alternate text
 
 The second page contains controls associated with tagging such as custom tags, health symptoms, mood, and life milestone. 
 
-.. image:: _images/iphone_editor_toolbar.PNG
+.. image:: _images/editor_page2_ios.PNG
    :width: 300px
    :alt: alternate text
 
 The third page contains controls for overriding datetime, location, and weather information. 
 
-.. image:: _images/iphone_editor_toolbar.PNG
+.. image:: _images/editor_page3_ios.PNG
    :width: 300px
    :alt: alternate text
 
 And the fourth page contains controls for formatting text such as bold, italics, bullet numbering etc. Please also note that the fourth page contains lot more text formatting options under a pop up menu than what is shown in the page as indicated in the screenshot below. 
 
-.. image:: _images/iphone_editor_toolbar.PNG
+.. image:: _images/editor_page4_ios.PNG
    :width: 300px
    :alt: alternate text
 
@@ -209,7 +206,7 @@ This is the most commonly used function within a journal. Dyrii supports attachi
 .. image:: _images/Editor_macOS_Controls_Menubar.png
    :alt: alternate text
 
-.. image:: _images/Editor_macOS_Controls_Menubar.png
+.. image:: _images/editor_photo_editing_ios.jpeg
    :alt: alternate text
 
 You can also edit an already attached photo by tapping on the image, which will display a contextual menu as shown in screenshot below. 
@@ -266,6 +263,10 @@ To add health event, navigate to the Editor and click on the "Add Symptoms" link
 Adding Place Checking In
 ^^^^^^^^^
 Place checkin is a feature that allows you to bookmark a specific location in an entry. It works very similar to how Facebook Check in works. To access this feature, select the "Checkin" option from the new post screen.
+
+.. image:: _images/checkin_ios.PNG
+   :width: 300px
+   :alt: alternate text
 
 The Checkin page will automatically show you the list of places that are near your current location. If the list of places does not load automatically, then click on the location triangle button on the top to reload the list. 
 
