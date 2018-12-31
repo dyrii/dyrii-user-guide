@@ -43,14 +43,13 @@ While some users may like a rolling timeline view, some may prefer a more tradit
 .. image:: _images/iphone_today_week.jpg
    :width: 300px
    :alt: alternate text
-
-
-iOS: While loading this view, we default it to today's date. But users can swipe left or right to scroll through their days. The view on the top has a top-down swipe gesture that will allow you to expand the number of visible days from week view to month view.
-
+   
 .. image:: _images/iphone_today_month.jpg
    :width: 300px
    :alt: alternate text
 
+
+iOS: While loading this view, we default it to today's date. But users can swipe left or right to scroll through their days. The view on the top has a top-down swipe gesture that will allow you to expand the number of visible days from week view to month view.
 
 This view also displays all the places you have visited during the given day as pins on map. We call this view Day Trail and this feature is turned off by default due to privacy reasons. Users can turned on this feature from Settings/Personalize/Track Place Visited.
 
