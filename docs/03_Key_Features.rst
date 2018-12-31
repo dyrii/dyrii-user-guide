@@ -180,6 +180,12 @@ And the fourth page contains controls for formatting text such as bold, italics,
    :width: 300px
    :alt: alternate text
 
+
+.. image:: _images/editor_page4_popup_ios.PNG
+   :width: 300px
+   :alt: alternate text
+
+
 Mac: On Mac, the toolbar appears at the bottom of the screen and is collapsed by default. These options are also located under the menu bar as indicated in the image below.
 
 
