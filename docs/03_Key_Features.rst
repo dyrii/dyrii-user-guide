@@ -341,13 +341,13 @@ Tags
 ------------
 Dyrii allows you to create custom tags to better organising journal entires. You can enter tags through the Editor while creating the entry or after the fact via the Entry Detail Screen. There is also a Tags management screen under Menu > Tags using which you will be able to mange Tags in bulk. 
 
-.. image:: _images/iphone_tags_management.jpeg
+.. image:: _images/tags_editing_ios.jpeg
    :width: 300px
    :alt: alternate text
 
 The Tags management screen described above also contains views using which you can view all the entries under a given tag. This view can then be used to export and print such matching entries. 
 
-.. image:: _images/iphone_tags_management.jpeg
+.. image:: _images/tags_export_ios.jpeg
    :width: 300px
    :alt: alternate text
 
