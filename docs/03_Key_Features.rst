@@ -57,7 +57,8 @@ This view also displays all the places you have visited during the given day as 
 Mac: On Mac, the today view is integrated with the Calander view located at the bottom of the Sidebar. Clicking any one of the date cells will change the timeline view to display posts from the selected day. The selected day is highlighted in the calendar view with a round circular shade as well as displayed on the timeline view header. To deselect the day view, simply click on the X button on the top of the view. 
 
 .. index:: Atlas
-Atlas 
+.. index:: Mapview
+Atlas (Mapview)
 ^^^^^^^^^
 Sometimes displaying entries in a list format is not enough, specially when you want to browse through your entires based on places you have visited across the globe. We have added Atlas view for that reason. You can get to this view from the Main Menu. Please note that to take advantage of this view, you need to enable geolocation in your entires since this information is needed to draw the Atlas view. 
 
@@ -86,13 +87,14 @@ This view is similar to the cities view described above. If you travel to severa
    :alt: alternate text
 
 .. index:: Attachments View
-Attachments View 
+.. index:: Media View
+Attachments View (Media View)
 ^^^^^^^^^
 This view provides an alternative way of displaying entries instead of displaying it as a list of entires. This view directly displays the attachments from all the entries in an album type of view. Based on the attachment type, this view is further classified into following four views. These views are located under Menu > Perspective.  
 
 a) Photo Album: This view displays all the photos in a canvas photo roll. Tapping an attachment on this view will open the entry that contains the tapped attachment. And if the given entry is not yet downloaded from iCloud, then this view will initiate a fetch from the cloud. 
 
-.. image:: _images/years_view.PNG
+.. image:: _images/album_view_photos_ios.jpeg
    :width: 300px
    :alt: alternate text
 
@@ -100,13 +102,13 @@ b) Video Album: This view is similar to the photo album view with the only diffe
 
 c) Audio Album: This view is similar to photo and video album view with the only difference being of the attachment type. That is only audio attachments are displayed here. To help easily distinguish between various audio files, we have included an interactive sound graph in this view containing play, fast forward, controls as shown in figure below. 
 
-.. image:: _images/years_view.PNG
+.. image:: _images/album_view_audio_ios.jpeg
    :width: 300px
    :alt: alternate text
 
 d) Sketch Book: Like the name implies, this view is designed to provide a sketch book type feel by stitching together all handwritten pages to form a cohesive notebook. 
 
-.. image:: _images/years_view.PNG
+.. image:: _images/album_view_sketch_ios.jpeg
    :width: 300px
    :alt: alternate text
 
@@ -125,7 +127,7 @@ Calendar View
 ^^^^^^^^^
 This view displays a running calendar with color coded dates indicating days with journal activity. This view is specially useful to look back on how consistency you have been writing journal on a day to day basis. 
 
-.. image:: _images/ios_health_activity.jpeg
+.. image:: _images/calendar_view_ios.jpeg
    :width: 300px
    :alt: alternate text
 
