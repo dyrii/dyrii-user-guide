@@ -51,6 +51,8 @@ Dyrii allows you to make following entry edit actions in bulk from the Timeline 
 Adding Tags
 =========
 Using this function, you will be able to tag multiple entries without having to do this one by one from the Entry detail screen.
+
+.. index:: Delete
 Deleting
 =========
 Using this function, you will be able to delete multiple entries without having to do this one by one. 
