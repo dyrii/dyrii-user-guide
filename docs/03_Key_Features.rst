@@ -72,7 +72,7 @@ City View
 ^^^^^^^^^
 This view is similar to Atlas view expect, it is not rendered on a map. Instead the list of indexed cities are listed in alphabetical order. Tapping a city would then display all the entires tagged with that city.
 
-.. image:: _images/iphone_atlas.jpeg
+.. image:: _images/cities_iphone.jpeg
    :width: 300px
    :alt: alternate text
 
@@ -81,7 +81,7 @@ Countries View
 ^^^^^^^^^
 This view is similar to the cities view described above. If you travel to several different countries, then it is a lot easier to find a given entry using this view than looking for it through atlas or other views. 
 
-.. image:: _images/iphone_atlas.jpeg
+.. image:: _images/countries_iphone.jpeg
    :width: 300px
    :alt: alternate text
 
@@ -242,6 +242,11 @@ On the iPad, there are two way of entering handwriting notes:
 
 2)You can add the handwriting through the editor. Using this method you will be able to add only one page at a time.
 
+The sketch feature although basic allows few customisations such as increasing the width of the line, changing the color of the line, picking a background from a list of page backgrounds. These options are located under the ... menu as shown in below scrrenshot.
+
+.. image:: _images/sketch_changing_line_width_iphone.PNG
+   :width: 300px
+   :alt: alternate text
 
 .. index:: Weather Information
 Attaching Weather Info
@@ -372,12 +377,19 @@ In addition to typing, Dyrii also supports handwriting using Apple Pencil on iPa
 .. image:: _images/dyrii_apple_pencil.jpg
    :alt: alternate text
 
+Note: The sketch feature although basic allows few customisations such as increasing the width of the line, changing the color of the line, picking a background from a list of page backgrounds. These options are located under the ... menu as shown in below scrrenshot.
+
+.. image:: _images/sketch_changing_line_width_iphone.PNG
+   :width: 300px
+   :alt: alternate text
+
+
 .. index:: Backdating 
 Backdating Entries
 -------
 Dyrii allows you to override the datetime and location metadata on the entry so that you can create backdated entries. This option exists on the editor above the title field as shown in figure below. 
 
-.. image:: _images/iphone_storage_option_startup.jpeg
+.. image:: _images/editor_backdating_iPhone.PNG
    :width: 300px
    :alt: alternate text
 
@@ -387,7 +399,11 @@ Photo X-Ray
 -------
 In addition to above backdating feature, Dyrii also supports using datetime and location information from attached photos. When you attached a photo containing datetime and geolocation information, Dyrii will show a button to the left of Done button for picking metadata from attached photos. 
 
-.. image:: _images/iphone_storage_option_startup.jpeg
+.. image:: _images/editor_photo_x_ray_iphone.jpeg
+   :width: 300px
+   :alt: alternate text
+
+.. image:: _images/photo_x_ray_iphone.jpeg
    :width: 300px
    :alt: alternate text
 
