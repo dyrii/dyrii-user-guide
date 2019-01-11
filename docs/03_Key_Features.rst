@@ -370,7 +370,8 @@ Dyrii supports flagging entries as favorites.
 .. index:: Sketching
 .. index:: Handwriting 
 .. index:: Apple Pencil
-Sketching 
+
+Handwriting 
 ------------
 In addition to typing, Dyrii also supports handwriting using Apple Pencil on iPad. You can pick from various background such as lines page, graph paper, etc. It also allows you to change the font size as well as 
 
