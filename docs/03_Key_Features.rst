@@ -509,12 +509,25 @@ Mac: To enable iCloud on Mac, click on the Cloud icon that is provided on the to
 .. image:: _images/mac_main_view.png
    :alt: alternate text
 
-.. index:: Today Extension
-Today Extension
+.. index:: Today Widget
+Today Widget
 ----------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+Dyrii also comes with a Today Widget that provides a quick and easy way to launch Dyrii from the Today section of the Notification Center. This widget also contains an option to quickly log your current location on the go without have to type an entry by using the “Pin Location” button. 
+
+.. image:: _images/Today_Widget_iOS.png
+   :width: 300px
+   :alt: alternate text
+
+Note: This feature is only available on iOS and not on macOS. 
 
 .. index:: Force Touch Shortcuts
 Force Touch Shortcuts 
 ----------
-Dyrii allows you to tag health events in your journal which then gets displayed in the Health section where it can be printed into a report. 
+Dyrii supports 3-D force touch shortcuts that are available in select high end iOS devices such as iPhones. This provides a quick way of launching editor from the app home screen.  
+
+.. image:: _images/Force_Touch_iOS.png
+   :width: 300px
+   :alt: alternate text
+
+Note: This feature is only available on iOS and not on macOS. 
+
