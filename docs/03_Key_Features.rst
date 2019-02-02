@@ -365,7 +365,25 @@ The Tags management screen described above also contains views using which you c
 .. index:: Favorites
 Favorites
 ------------
-Dyrii supports flagging entries as favorites. 
+In addition to tags, Dyrii also allows you to flag your favorite entries so that you can easily access them. To mark an entry as favorite, click on the more information button (i button on the Entry Detail Screen toolbar) and then tap on the Star icon from the more info list. 
+
+
+
+.. image:: _images/Favorite_Detail_View_iPhone.jpeg
+   :width: 300px
+   :alt: alternate text
+
+.. image:: _images/Favorite_More_Info_iPhone.jpeg
+   :width: 300px
+   :alt: alternate text
+   
+Once you have bunch of favorite entries, you can easily access them from Main Menu > Favorites.
+
+.. image:: _images/Favorite_Main_Menu_iPhone.jpeg
+   :width: 300px
+   :alt: alternate text
+
+While the default Favorite setting is binary (Single Star) rating, you can personalize it to 5-star ratings by navigating to Settings > Personalize > Use 5-stars for Favorites. 
 
 .. index:: Sketching
 .. index:: Handwriting 
