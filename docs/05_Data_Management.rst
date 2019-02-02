@@ -36,10 +36,13 @@ IMPORTANT NOTE: Do not tamper with the files inside this folder. These files are
 .. index:: Restore
 Restore
 --------
+If you have been using Dyrii in Local Mode, you will find the Restore feature quite handy when switching devices. This feature enables you to restore the data using a backup file. You can basically export a backup file from the source device using the backup and export option and then use that file to restore your data into your new device. 
 
-- Be awesome
-- Make things faster
+.. image:: _images/Restore_iOS.jpeg
+   :width: 300px
+   :alt: iOS Reset
 
+To access this function, navigate to Settings > Manage Data > Restore. This function will also allows you to restore data from the existing backup file created routinely on the same device (Internal Backuo file). This is especially handy in situations when you happen to upgrade the OS on your device and accidently lose data. Using this function, you will be able to restore data from previously created backup. So, make sure you have backup enabled for such scenarions.
 
 .. index:: Import
 Import
@@ -176,6 +179,8 @@ On Mac, this option resides on the Menu bar under File/Export as PDF. Here you w
 .. index:: Reset
 Reset
 ------------
+Dyrii provides an option to completely reset your data. Please be extremely careful before you use this function as this will delete all your data from your device as well as from your iCloud Account. Therefore, backup your data before you use this function.
 
-- Be awesome
-- Make things faster
+.. image:: _images/Reset_iOS.jpeg
+   :width: 300px
+   :alt: iOS Reset
