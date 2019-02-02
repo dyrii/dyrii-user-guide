@@ -2,4 +2,4 @@
 Dyrii User Guide
 ========
 
-This is the user guide for Dyrii.
+This repo contains the User Guide code for Dyrii.com that is hosted on ReadTheDocs at docs.dyrii.com.
