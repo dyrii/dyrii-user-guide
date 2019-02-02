@@ -368,7 +368,6 @@ Favorites
 In addition to tags, Dyrii also allows you to flag your favorite entries so that you can easily access them. To mark an entry as favorite, click on the more information button (i button on the Entry Detail Screen toolbar) and then tap on the Star icon from the more info list. 
 
 
-
 .. image:: _images/Favorite_Detail_View_iPhone.jpeg
    :width: 300px
    :alt: alternate text
@@ -376,8 +375,13 @@ In addition to tags, Dyrii also allows you to flag your favorite entries so that
 .. image:: _images/Favorite_More_Info_iPhone.jpeg
    :width: 300px
    :alt: alternate text
-   
-Once you have bunch of favorite entries, you can easily access them from Main Menu > Favorites.
+
+On macOS, this option resides in a similar location in the entry view  header where date, location, and entry size information is displayed as shown in figure below.
+
+.. image:: _images/Favorite_Detail_View_macOS.png
+   :alt: alternate text
+
+Once you have bunch of favorite entries, you can easily access them from Main Menu > Favorites as shown in figure below. This provides a quick way to access such entries.
 
 .. image:: _images/Favorite_Main_Menu_iPhone.jpeg
    :width: 300px
