@@ -11,7 +11,7 @@ Dyrii is a privacy focused journaling app for iOS and macOS. While there are ton
 
 Dyrii was born out of the struggle between two contrasting ideas: a) allowing users to bring their own storage vs b) taking over the ownership of providing and managing the storage for the user. Being an avid journal user ourselves, we needed the assurance that we own and control our journals and not anybody else. So, option b wasn't really an option. And that's how Dyrii was born!
 
-Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. 
+Our goal with Dyrii is to provide users a powerful, let simple journaling tool that can last a lifetime. To learn more about us, please visit us at our website `dyrii.com <http://dyrii.com/>`_.
 
 
 Using iCloud
